@@ -20,11 +20,11 @@
         "content": "<p>Subscribe now and get 10% off your first order!</p>",
         "button_text": "GET EXCLUSIVE ACCESS",
         "subtext": "",
-        "background": "#ffffff",
+        "background": "#1a1a1a",
         "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "text_color": "#ffffff",
+        "button_background": "#1a1a1a",
+        "button_text_color": "#ffffff"
       }
     },
     "footer": {
