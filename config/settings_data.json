@@ -140,6 +140,8 @@
     }
   },
   "platform_customizations": {
-    "custom_css": []
+    "custom_css": [
+      "h2 {font-size: 12px;}"
+    ]
   }
 }

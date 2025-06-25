@@ -97,6 +97,76 @@
         "text_color": ""
       }
     },
+    "images_with_text_scrolling_xbEXEG": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_NLV774": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Photoroom_20250625_192019.jpg",
+            "icon": "none",
+            "icon_width": 24,
+            "title": "Built for Action!",
+            "content": "<h6><strong>Lightweight design, crystal-clear footage, extreme durability — your personal witness for every moment.</strong></h6>"
+          }
+        }
+      },
+      "block_order": [
+        "item_NLV774"
+      ],
+      "custom_css": [
+        "h2 {font-size: 18px;}"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": false,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "fade",
+        "image_position": "end",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#1a1a1a",
+        "heading_color": "#1a1a1a",
+        "heading_gradient": ""
+      }
+    },
+    "impact_text_fXEQTd": {
+      "type": "impact-text",
+      "blocks": {
+        "item_Xzk4dw": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Shockproof Recording",
+            "content": "<p>Ultra-durable design. Crystal-clear evidence even in extreme conditions. Trusted by security teams & athletes worldwide.</p>",
+            "button_text": "SHOP NOW",
+            "button_url": "shopify://collections/all",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_Xzk4dw"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "heading_text_color": "#1a1a1a",
+        "heading_gradient": "linear-gradient(350deg, rgba(128, 60, 238, 1), rgba(246, 174, 45, 1) 100%)",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "press": {
       "type": "press",
       "blocks": {
@@ -139,80 +209,13 @@
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
-    "impact_text_fXEQTd": {
-      "type": "impact-text",
-      "blocks": {
-        "item_Xzk4dw": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_Xzk4dw"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "images_with_text_scrolling_xbEXEG": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_NLV774": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Photoroom_20250625_192019.jpg",
-            "icon": "none",
-            "icon_width": 24,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_NLV774"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": false,
-        "stack_on_mobile": false,
-        "show_counter": false,
-        "desktop_image_effect": "fade",
-        "image_position": "end",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "#1a1a1a",
-        "heading_color": "#1a1a1a",
-        "heading_gradient": ""
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": "#1a1a1a"
       }
     }
   },
@@ -220,8 +223,8 @@
     "slideshow",
     "scrolling-text",
     "rich_text_xFGCyf",
-    "press",
+    "images_with_text_scrolling_xbEXEG",
     "impact_text_fXEQTd",
-    "images_with_text_scrolling_xbEXEG"
+    "press"
   ]
 }
