@@ -45,9 +45,10 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [],
       "settings": {
-        "enable_sticky": true,
-        "hide_on_scroll": false,
+        "enable_sticky": false,
+        "hide_on_scroll": true,
         "logo": "shopify://shop_images/spen-2-ezgif.com-crop.png",
         "logo_max_width": 195,
         "logo_mobile_max_width": 140,
@@ -63,6 +64,7 @@
         "show_country_flag": false,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify://shop_images/spen-2-ezgif.com-crop.png",
         "reduce_padding": true,
         "background_opacity": 100,
         "background_blur_radius": 0

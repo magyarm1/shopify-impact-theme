@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Never_Miss_a_Moment_Whether_for_Fun_or_Safety..png",
+            "image": "shopify://shop_images/58084d57-07cb-4572-bc6b-6cf06870b749.png",
             "mobile_image": "shopify://shop_images/acbae7f5-4d19-4dc3-99a4-19cfd1dcbe31.jpg",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
@@ -148,38 +148,70 @@
         "logo_item_border": ""
       }
     },
-    "blog_posts_etUTE3": {
-      "type": "blog-posts",
+    "impact_text_fXEQTd": {
+      "type": "impact-text",
       "blocks": {
-        "article_EWn9Yb": {
-          "type": "article",
+        "item_Xzk4dw": {
+          "type": "item",
           "settings": {
-            "article": "",
-            "background": "",
-            "text_color": ""
+            "title": "100%",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
           }
         }
       },
       "block_order": [
-        "article_EWn9Yb"
+        "item_Xzk4dw"
       ],
-      "name": "Featured blog post",
+      "name": "Impact text",
       "settings": {
         "full_width": true,
-        "show_excerpt": true,
-        "show_date": true,
-        "show_author": false,
-        "show_comments_count": false,
-        "show_category": true,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
         "background": "",
         "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
         "text_color": "",
-        "heading_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "images_with_text_scrolling_xbEXEG": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_NLV774": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Photoroom_20250625_192019.jpg",
+            "icon": "none",
+            "icon_width": 24,
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_NLV774"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": false,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "fade",
+        "image_position": "end",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#1a1a1a",
+        "heading_color": "#1a1a1a",
         "heading_gradient": ""
       }
     }
@@ -189,6 +221,7 @@
     "scrolling-text",
     "rich_text_xFGCyf",
     "press",
-    "blog_posts_etUTE3"
+    "impact_text_fXEQTd",
+    "images_with_text_scrolling_xbEXEG"
   ]
 }
