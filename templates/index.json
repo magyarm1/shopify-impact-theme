@@ -54,11 +54,11 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "99% clor eliminat - 0,001 mm filtrare - 92% mai puțină încrețire",
-        "text_size": "large",
+        "text": "Capture Every Adventure • Lightweight & Durable • Trusted By Thousands • Next-Level Safety Recording",
+        "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 5,
+        "scrolling_speed": 7,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -68,30 +68,23 @@
     "rich_text_xFGCyf": {
       "type": "rich-text",
       "blocks": {
-        "subheading_beh4zU": {
-          "type": "subheading",
-          "settings": {
-            "text": "Revoluționează-ți experiența la duș!"
-          }
-        },
         "heading_XjtBfc": {
           "type": "heading",
           "settings": {
-            "text": "CALITATE SUPERIOARĂ",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
+            "text": "Your Life. Your Proof. Anytime.",
+            "heading_tag": "h4",
+            "text_color": "#1a1a1a",
+            "gradient": "radial-gradient(rgba(26, 26, 26, 1) 100%, rgba(48, 145, 211, 1) 100%)"
           }
         },
         "richtext_6y8XLR": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Bun venit la Filterbaby – unde fiecare picătură de apă înseamnă piele catifelată și păr strălucitor. Cu filtrele noastre inovatoare, aducem puritatea apei de izvor în casa ta.</p><p><strong>De ce să ne alegi?</strong><br/>✔ 99% eliminare clor și calcar<br/>✔ Instalare în 3 minute – fără expert<br/>✔ Peste 50.000 clienți mulțumiți</p>"
+            "content": "<p>✔ Full HD recording — Clear evidence in any situation<br/>✔ Lightweight & pocket-sized — Always with you<br/>✔ Sport. Travel. Security — One device, unlimited uses<br/>✔ Built for action — Shock-resistant design<br/>✔ Trusted by thousands — Growing US community<br/>✔ Instant replay — Capture & relive every moment</p>"
           }
         }
       },
       "block_order": [
-        "subheading_beh4zU",
         "heading_XjtBfc",
         "richtext_6y8XLR"
       ],
@@ -99,7 +92,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
