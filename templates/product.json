@@ -275,6 +275,41 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "media_with_text_6JU3Lf": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_bgq8Rz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5825.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Built to Follow the Play.",
+            "content": "<p>Take your shots, capture the moment — no matter how fast the action moves. ZENCAMPRO™ keeps up.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_bgq8Rz"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
@@ -287,6 +322,7 @@
     "gp_section_569355997286499360",
     "featured_product_EEQeAR",
     "scrolling_text_NbKAbc",
-    "images_with_text_scrolling_x9Y7PV"
+    "images_with_text_scrolling_x9Y7PV",
+    "media_with_text_6JU3Lf"
   ]
 }
