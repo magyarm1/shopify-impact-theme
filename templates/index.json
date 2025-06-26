@@ -74,13 +74,13 @@
             "text": "Your Life. Your Proof. Anytime.",
             "heading_tag": "h4",
             "text_color": "#1a1a1a",
-            "gradient": "linear-gradient(241deg, rgba(0, 0, 0, 1) 100%, rgba(48, 145, 211, 1) 100%)"
+            "gradient": "linear-gradient(241deg, rgba(26, 26, 26, 1) 100%, rgba(48, 145, 211, 1) 100%)"
           }
         },
         "richtext_6y8XLR": {
           "type": "richtext",
           "settings": {
-            "content": "<p>- Full HD recording — Clear evidence in any situation<br/>-Lightweight & pocket-sized — Always with you<br/>-Sport. Travel. Security — One device, unlimited uses<br/>-Built for action — Shock-resistant design<br/>-Trusted by thousands — Growing US community<br/>-Instant replay — Capture & relive every moment</p>"
+            "content": "<p>✔ Full HD recording — Clear evidence in any situation<br/>✔ Lightweight & pocket-sized — Always with you<br/>✔ Sport. Travel. Security — One device, unlimited uses<br/>✔ Built for action — Shock-resistant design<br/>✔ Trusted by thousands — Growing US community<br/>✔ Instant replay — Capture & relive every moment</p>"
           }
         }
       },
@@ -129,6 +129,41 @@
         "text_color": "#1a1a1a",
         "heading_color": "#1a1a1a",
         "heading_gradient": ""
+      }
+    },
+    "media_with_text_kiiBhF": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_LVz34C": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5823.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Built for Real Time Action!",
+            "content": "<ul><li>Seamlessly connect via Wi-Fi — control, record, and transfer with zero delay.</li><li>Just tap and shoot — instant sync to your phone.</li><li>Don’t just watch — relive your moments as they happen.</li></ul>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_LVz34C"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
       }
     },
     "impact_text_fXEQTd": {
@@ -338,6 +373,7 @@
     "scrolling-text",
     "rich_text_xFGCyf",
     "images_with_text_scrolling_xbEXEG",
+    "media_with_text_kiiBhF",
     "impact_text_fXEQTd",
     "press",
     "text_with_icons_kT7WTG",
