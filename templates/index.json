@@ -74,13 +74,13 @@
             "text": "Your Life. Your Proof. Anytime.",
             "heading_tag": "h4",
             "text_color": "#1a1a1a",
-            "gradient": "radial-gradient(rgba(26, 26, 26, 1) 100%, rgba(48, 145, 211, 1) 100%)"
+            "gradient": "linear-gradient(241deg, rgba(26, 26, 26, 1) 100%, rgba(48, 145, 211, 1) 100%)"
           }
         },
         "richtext_6y8XLR": {
           "type": "richtext",
           "settings": {
-            "content": "<p><strong>✔ Full HD recording — Clear evidence in any situation<br/>✔ Lightweight & pocket-sized — Always with you<br/>✔ Sport. Travel. Security — One device, unlimited uses<br/>✔ Built for action — Shock-resistant design<br/>✔ Trusted by thousands — Growing US community<br/>✔ Instant replay — Capture & relive every moment</strong></p>"
+            "content": "<p>✔ Full HD recording — Clear evidence in any situation<br/>✔ Lightweight & pocket-sized — Always with you<br/>✔ Sport. Travel. Security — One device, unlimited uses<br/>✔ Built for action — Shock-resistant design<br/>✔ Trusted by thousands — Growing US community<br/>✔ Instant replay — Capture & relive every moment</p>"
           }
         }
       },
@@ -103,11 +103,11 @@
         "item_NLV774": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Photoroom_20250625_192019.jpg",
+            "image": "shopify://shop_images/IMG_5823.gif",
             "icon": "none",
             "icon_width": 24,
-            "title": "Built for Action!",
-            "content": "<h6><strong>Lightweight design, crystal-clear footage, extreme durability — your personal witness for every moment.</strong></h6>"
+            "title": "Built for Real Time Action!",
+            "content": "<ul><li>Seamlessly connect via Wi-Fi — control, record, and transfer with zero delay.</li><li>Just tap and shoot — instant sync to your phone.</li><li>Don’t just watch — relive your moments as they happen.</li></ul><p></p>"
           }
         }
       },
