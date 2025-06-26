@@ -401,7 +401,7 @@
         "background": "",
         "background_gradient": "",
         "heading_text_color": "",
-        "heading_gradient": "",
+        "heading_gradient": "linear-gradient(180deg, rgba(102, 165, 238, 1), rgba(82, 218, 236, 1) 100%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
