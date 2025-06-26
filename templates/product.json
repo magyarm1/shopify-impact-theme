@@ -552,6 +552,22 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "175096150094a9477b": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -570,6 +586,7 @@
     "media_with_text_k936di",
     "impact_text_BcCrLY",
     "media_grid_ctrXVB",
-    "text_with_icons_F7WFrc"
+    "text_with_icons_F7WFrc",
+    "175096150094a9477b"
   ]
 }
