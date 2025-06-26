@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/58084d57-07cb-4572-bc6b-6cf06870b749.png",
-            "mobile_image": "shopify://shop_images/acbae7f5-4d19-4dc3-99a4-19cfd1dcbe31.jpg",
+            "image": "shopify://shop_images/Never_Miss_a_Moment_Whether_for_Fun_or_Safety.-4.png",
+            "mobile_image": "shopify://shop_images/Record_Every_Ride._Stay_Protected._Anytime.-2.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -63,6 +63,41 @@
         "background_gradient": "",
         "text_color": "",
         "text_gradient": ""
+      }
+    },
+    "media_with_text_n6Wdq3": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_y8UPGm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5826.gif",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Ride. Record. Relive.",
+            "content": "<p>Push your limits while ZENCAMPRO captures every moment in stunning detail. Shockproof, waterproof, and ready for your wildest ride.</p><p>- Fast shipping across Europe<br/>- Durable, compact, always stable<br/>- Trusted by extreme sports lovers</p>",
+            "link_text": "SHOP NOW",
+            "link_url": "shopify://products/zencampro",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_y8UPGm"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
       }
     },
     "rich_text_xFGCyf": {
@@ -337,6 +372,7 @@
   "order": [
     "slideshow",
     "scrolling-text",
+    "media_with_text_n6Wdq3",
     "rich_text_xFGCyf",
     "media_with_text_kiiBhF",
     "impact_text_fXEQTd",
