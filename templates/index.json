@@ -113,7 +113,7 @@
             "title": "Built for Real Time Action!",
             "content": "<ul><li>Seamlessly connect via Wi-Fi — control, record, and transfer with zero delay.</li><li>Just tap and shoot — instant sync to your phone.</li><li>Don’t just watch — relive your moments as they happen.</li></ul>",
             "link_text": "SHOP NOW",
-            "link_url": "",
+            "link_url": "shopify://products/zencampro",
             "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#1a1a1a",
@@ -139,10 +139,10 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "Shockproof Recording",
-            "content": "<p>Ultra-durable design. Crystal-clear evidence even in extreme conditions. Trusted by security teams & athletes worldwide.</p>",
+            "subheading": "Trusted by Pros",
+            "content": "<p>Relied on by athletes, bikers & security teams. Clear footage in any condition.<br/></p>",
             "button_text": "SHOP NOW",
-            "button_url": "shopify://collections/all",
+            "button_url": "shopify://products/zencampro",
             "animate_impact_text": false,
             "animate_impact_text_duration": 2
           }
