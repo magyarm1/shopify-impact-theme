@@ -274,8 +274,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Built to Follow the Play.",
-            "content": "<p>Take your shots, capture the moment — no matter how fast the action moves. ZENCAMPRO™ keeps up.</p>",
+            "title": "Don’t Just Watch Capture It Like a Pro.",
+            "content": "<p>Whether it’s a blink,fast rally or a once, in a lifetime play, ZENCAMPRO™ is built to keep up ,and stand out.<br/>Crisp, smooth, immersive footage that turns every match into a cinematic experience.<br/>The pros already love it. Now it’s your turn.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#ffffff",
@@ -342,7 +342,7 @@
         "image_GpXPb4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_5827.gif",
+            "image": "shopify://shop_images/IMG_5836.gif",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -401,10 +401,95 @@
         "background": "",
         "background_gradient": "",
         "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(102, 165, 238, 1), rgba(82, 218, 236, 1) 100%)",
+        "heading_gradient": "linear-gradient(180deg, rgba(105, 255, 141, 1), rgba(128, 60, 238, 1) 2%, rgba(0, 0, 0, 1) 32%, rgba(162, 69, 238, 1) 65.468%, rgba(82, 218, 236, 1) 100%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "media_grid_ctrXVB": {
+      "type": "media-grid",
+      "blocks": {
+        "image_zKP6tW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5829.gif",
+            "title": "No shakes. Just clean, cinematic shots.",
+            "heading_tag": "h6",
+            "link_url": "shopify://products/zencampro",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_hgR6JD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5822.gif",
+            "title": "Real Moments. Real Angles. No Hands Needed.",
+            "heading_tag": "h6",
+            "link_url": "shopify://products/zencampro",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_xcWfne": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5828.gif",
+            "title": "Your Pocket-Sized Powerhouse.",
+            "heading_tag": "h6",
+            "link_url": "shopify://products/zencampro",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_zKP6tW",
+        "image_hgR6JD",
+        "image_xcWfne"
+      ],
+      "name": "Media grid",
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "#1a1a1a",
+        "background_gradient": ""
       }
     },
     "accordion_content_K83Jy9": {
@@ -534,6 +619,7 @@
     "rich_text_mhjCa8",
     "media_with_text_k936di",
     "impact_text_BcCrLY",
+    "media_grid_ctrXVB",
     "accordion_content_K83Jy9",
     "text_with_icons_F7WFrc"
   ]
