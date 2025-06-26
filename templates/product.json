@@ -258,6 +258,22 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "scrolling_text_NbKAbc": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "ZENCAMPRO™ is Selling Out Fast — Grab Yours Now! - Free Shipping in Europe! -  Trusted by 10,000+ Creators!",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
     }
   },
   "order": [
@@ -269,6 +285,7 @@
     "gp_section_571645619102287072",
     "gp_section_569355997286499360",
     "featured_product_EEQeAR",
-    "images_with_text_scrolling_x9Y7PV"
+    "images_with_text_scrolling_x9Y7PV",
+    "scrolling_text_NbKAbc"
   ]
 }
