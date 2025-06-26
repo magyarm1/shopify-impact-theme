@@ -65,21 +65,21 @@
         "text_gradient": ""
       }
     },
-    "media_with_text_n6Wdq3": {
+    "media_with_text_kiiBhF": {
       "type": "media-with-text",
       "blocks": {
-        "image_y8UPGm": {
+        "image_LVz34C": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_5826.gif",
+            "image": "shopify://shop_images/IMG_5823.gif",
             "media_width": 50,
-            "media_position": "end",
+            "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Ride. Record. Relive.",
-            "content": "<p>Push your limits while ZENCAMPRO captures every moment in stunning detail. Shockproof, waterproof, and ready for your wildest ride.</p><p>- Fast shipping across Europe<br/>- Durable, compact, always stable<br/>- Trusted by extreme sports lovers</p>",
+            "title": "Built for Real Time Action!",
+            "content": "<ul><li>Seamlessly connect via Wi-Fi — control, record, and transfer with zero delay.</li><li>Just tap and shoot — instant sync to your phone.</li><li>Don’t just watch — relive your moments as they happen.</li></ul>",
             "link_text": "SHOP NOW",
             "link_url": "shopify://products/zencampro",
             "background": "#ffffff",
@@ -92,7 +92,7 @@
         }
       },
       "block_order": [
-        "image_y8UPGm"
+        "image_LVz34C"
       ],
       "name": "Media with text",
       "settings": {
@@ -132,21 +132,21 @@
         "text_color": ""
       }
     },
-    "media_with_text_kiiBhF": {
+    "media_with_text_n6Wdq3": {
       "type": "media-with-text",
       "blocks": {
-        "image_LVz34C": {
+        "image_y8UPGm": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_5823.gif",
+            "image": "shopify://shop_images/IMG_5826.gif",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Built for Real Time Action!",
-            "content": "<ul><li>Seamlessly connect via Wi-Fi — control, record, and transfer with zero delay.</li><li>Just tap and shoot — instant sync to your phone.</li><li>Don’t just watch — relive your moments as they happen.</li></ul>",
+            "title": "Ride. Record. Relive.",
+            "content": "<p>Push your limits while ZENCAMPRO captures every moment in stunning detail. Shockproof, waterproof, and ready for your wildest ride.</p><p>- Fast shipping across Europe<br/>- Durable, compact, always stable<br/>- Trusted by extreme sports lovers</p>",
             "link_text": "SHOP NOW",
             "link_url": "shopify://products/zencampro",
             "background": "#ffffff",
@@ -159,7 +159,7 @@
         }
       },
       "block_order": [
-        "image_LVz34C"
+        "image_y8UPGm"
       ],
       "name": "Media with text",
       "settings": {
@@ -350,7 +350,7 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
@@ -361,7 +361,7 @@
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": "",
+        "heading_gradient": "linear-gradient(25deg, rgba(34, 41, 41, 1) 15%, rgba(33, 249, 150, 1) 85%)",
         "button_background": "",
         "button_text_color": "",
         "accordion_background": "",
@@ -372,9 +372,9 @@
   "order": [
     "slideshow",
     "scrolling-text",
-    "media_with_text_n6Wdq3",
-    "rich_text_xFGCyf",
     "media_with_text_kiiBhF",
+    "rich_text_xFGCyf",
+    "media_with_text_n6Wdq3",
     "impact_text_fXEQTd",
     "press",
     "text_with_icons_kT7WTG",
