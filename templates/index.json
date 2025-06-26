@@ -97,40 +97,6 @@
         "text_color": ""
       }
     },
-    "images_with_text_scrolling_xbEXEG": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_NLV774": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_5823.gif",
-            "icon": "none",
-            "icon_width": 24,
-            "title": "Built for Real Time Action!",
-            "content": "<ul><li>Seamlessly connect via Wi-Fi — control, record, and transfer with zero delay.</li><li>Just tap and shoot — instant sync to your phone.</li><li>Don’t just watch — relive your moments as they happen.</li></ul><p></p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_NLV774"
-      ],
-      "custom_css": [
-        "h2 {font-size: 18px;}"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": false,
-        "stack_on_mobile": false,
-        "show_counter": false,
-        "desktop_image_effect": "fade",
-        "image_position": "end",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#1a1a1a",
-        "heading_color": "#1a1a1a",
-        "heading_gradient": ""
-      }
-    },
     "media_with_text_kiiBhF": {
       "type": "media-with-text",
       "blocks": {
@@ -148,9 +114,9 @@
             "content": "<ul><li>Seamlessly connect via Wi-Fi — control, record, and transfer with zero delay.</li><li>Just tap and shoot — instant sync to your phone.</li><li>Don’t just watch — relive your moments as they happen.</li></ul>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#ffffff",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#1a1a1a",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -372,7 +338,6 @@
     "slideshow",
     "scrolling-text",
     "rich_text_xFGCyf",
-    "images_with_text_scrolling_xbEXEG",
     "media_with_text_kiiBhF",
     "impact_text_fXEQTd",
     "press",
