@@ -278,6 +278,59 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "faq_tV7dmH": {
+      "type": "faq",
+      "blocks": {
+        "item_iN6rRd": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "item_YXrrDb": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_HgTBfA": {
+          "type": "item",
+          "settings": {
+            "title": "How long does the battery last?",
+            "content": "<p>up to 150 minutes in 1080p</p><p>120 minutes in 2K</p><p>90 minutes in 4K</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_iN6rRd",
+        "item_YXrrDb",
+        "item_HgTBfA"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -287,6 +340,7 @@
     "images_with_text_scrolling_xbEXEG",
     "impact_text_fXEQTd",
     "press",
-    "text_with_icons_kT7WTG"
+    "text_with_icons_kT7WTG",
+    "faq_tV7dmH"
   ]
 }
