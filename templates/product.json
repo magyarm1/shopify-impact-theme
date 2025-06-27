@@ -568,6 +568,93 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "media_with_text_a7ihNd": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_MCxAED": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5824.gif",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Maximum freedom, pocket-sized.Hands-free. Limit-free.",
+            "content": "<p>Capture life’s best moments without ever missing a beat – whether you’re hiking, biking, or just chilling. Tiny, lightweight, and magnetic – but delivers a big impact.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_MCxAED"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "press_6BxJLV": {
+      "type": "press",
+      "blocks": {
+        "quote_BXtGpg": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Jake R.",
+            "content": "Didn’t expect it to be this good! Super easy to use, and the magnetic mount is surprisingly strong. I wore it all day while hiking and it captured every moment hands-free.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_GwMXVA": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Emily S.",
+            "content": "Love it! The quality is great for such a compact device. I use it while biking with my dog and it stays perfectly in place. Delivery was fast too.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_LcJWqn": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Daniel K.",
+            "content": "I was a bit skeptical at first, but honestly it works way better than I thought. Perfect for quick POV videos without having to hold anything.",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_BXtGpg",
+        "quote_GwMXVA",
+        "quote_LcJWqn"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
     }
   },
   "order": [
@@ -587,6 +674,8 @@
     "impact_text_BcCrLY",
     "media_grid_ctrXVB",
     "text_with_icons_F7WFrc",
-    "175096150094a9477b"
+    "175096150094a9477b",
+    "media_with_text_a7ihNd",
+    "press_6BxJLV"
   ]
 }
