@@ -553,22 +553,6 @@
         "text_color": ""
       }
     },
-    "175096150094a9477b": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
-    },
     "media_with_text_a7ihNd": {
       "type": "media-with-text",
       "blocks": {
@@ -602,6 +586,81 @@
       "settings": {
         "full_width": false,
         "spacing": "small"
+      }
+    },
+    "175096150094a9477b": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "multi_column_P7nFt9": {
+      "type": "multi-column",
+      "blocks": {
+        "item_NAMEeP": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Product Details",
+            "heading_tag": "h4",
+            "content": "<p><strong>-Dimensions:</strong> Thumb Size</p><p><strong>-Weight:</strong> 0.36 kg / 0.8 lbs</p><p><strong>-Tech Specs:</strong></p><p>-Video Quality: 1080p (1920 x 1080)</p><p>-Battery Capacity: 1200mAh</p><p>-Battery Life: Up to 4 Hours </p><p>-Charging Time: 30–50 Minutes</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_D3MPtp": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "What's In The Box",
+            "heading_tag": "h4",
+            "content": "<p>ZenCamPro Camera</p><p>-64GB Micro SD Card</p><p>- BackClip Mount</p><p>-User Manual</p><p>-Access To Phone App</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_A7Vka6": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Shipping & Delivery",
+            "heading_tag": "h4",
+            "content": "<p><strong>Processing Time:</strong> Orders ship within 1–2 business days.</p><p><strong>Delivery Time:</strong> Estimated 7–14 business days.</p><p><strong>Free Returns:</strong> Hassle-free returns, 30 days after purchase.<br/>Need help? Contact us at <a>support@zencampro.com</a></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_NAMEeP",
+        "item_D3MPtp",
+        "item_A7Vka6"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Tech & Details",
+        "content": "<p>Discover what makes ZenCamPro the ultimate compact action cam. Everything you need to know before hitting record.</p>",
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": "#ffffff"
       }
     },
     "press_6BxJLV": {
@@ -655,90 +714,6 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
-    },
-    "multi_column_P7nFt9": {
-      "type": "multi-column",
-      "blocks": {
-        "item_NAMEeP": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Product Details",
-            "heading_tag": "h4",
-            "content": "<p><strong>-Dimensions:</strong> Thumb Size</p><p><strong>-Weight:</strong> 0.36 kg / 0.8 lbs</p><p><strong>-Tech Specs:</strong></p><p>-Video Quality: 1080p (1920 x 1080)</p><p>-Battery Capacity: 1200mAh</p><p>-Battery Life: Up to 4 Hours </p><p>-Charging Time: 30–50 Minutes</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_D3MPtp": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "What's In The Box",
-            "heading_tag": "h4",
-            "content": "<p>ZenCamPro Camera</p><p>-64GB Micro SD Card</p><p>- BackClip Mount</p><p>-User Manual</p><p>-Access To Phone App</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_A7Vka6": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Shipping & Delivery",
-            "heading_tag": "h4",
-            "content": "<p><strong>Processing Time:</strong> Orders ship within 1–2 business days.</p><p><strong>Delivery Time:</strong> Estimated 7–14 business days.</p><p><strong>Free Returns:</strong> Hassle-free returns, 30 days after purchase.<br/>Need help? Contact us at <a>support@zencampro.com</a></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_NAMEeP",
-        "item_D3MPtp",
-        "item_A7Vka6"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "17510368831d1419b6": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_preview_badge_Kkig77": {
-          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_preview_badge_Kkig77"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
     }
   },
   "order": [
@@ -758,10 +733,9 @@
     "impact_text_BcCrLY",
     "media_grid_ctrXVB",
     "text_with_icons_F7WFrc",
-    "175096150094a9477b",
     "media_with_text_a7ihNd",
-    "press_6BxJLV",
+    "175096150094a9477b",
     "multi_column_P7nFt9",
-    "17510368831d1419b6"
+    "press_6BxJLV"
   ]
 }
