@@ -9878,9 +9878,7 @@ split-lines {
   display: -webkit-box;
   overflow: hidden;
 }
-.loox-review-footer span[class*="date"],
-.loox-review__date,
-.loox-date,
-.loox-review-popup span[class*="date"] {
+.loox-review .loox-review-date {
   display: none !important;
 }
+
