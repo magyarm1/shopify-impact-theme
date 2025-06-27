@@ -9881,4 +9881,15 @@ split-lines {
 .loox-review .loox-review-date {
   display: none !important;
 }
+.loox-review .loox-review-footer .loox-review-date,
+.loox-review-date,
+.loox-date,
+.loox-review-popup .loox-review-date {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  height: 0 !important;
+  line-height: 0 !important;
+  font-size: 0 !important;
+}
 
