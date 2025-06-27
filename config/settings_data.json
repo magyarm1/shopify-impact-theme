@@ -153,7 +153,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "h2 {font-size: 12px;}"
+      ".loox-review-date {display: none !important;}"
     ]
   }
 }

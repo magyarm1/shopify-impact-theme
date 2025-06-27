@@ -765,6 +765,9 @@
       "block_order": [
         "loox_reviews_loox_dynamic_section_tWJJyc"
       ],
+      "custom_css": [
+        ".loox-review .loox-review-footer .loox-review-date,.loox-review-popup .loox-review-date,.loox-review__date,.loox-date {display: none !important;}"
+      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
