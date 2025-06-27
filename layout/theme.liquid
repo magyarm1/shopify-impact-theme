@@ -54,7 +54,19 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
 
     {{- 'theme.css' | asset_url | stylesheet_tag: preload: true -}}
   </head>
-
+<style>
+  .loox-review .loox-review-footer .loox-review-date,
+  .loox-review_date,
+  .loox-date,
+  .loox-review-popup .loox-review-date {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    height: 0 !important;
+    line-height: 0 !important;
+    font-size: 0 !important;
+  }
+</style>
   <body class="{% if settings.show_page_transition %}page-transition{% endif %} {% if settings.zoom_image_on_hover %}zoom-image--enabled{% endif %}">
     {%- render 'shadow-dom-templates' -%}
 
