@@ -655,6 +655,65 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
+    },
+    "multi_column_P7nFt9": {
+      "type": "multi-column",
+      "blocks": {
+        "item_NAMEeP": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Product Details",
+            "heading_tag": "h4",
+            "content": "<p><strong>-Dimensions:</strong> Thumb Size</p><p><strong>-Weight:</strong> 0.36 kg / 0.8 lbs</p><p><strong>-Tech Specs:</strong></p><p>-Video Quality: 1080p (1920 x 1080)</p><p>-Battery Capacity: 1200mAh</p><p>-Battery Life: Up to 4 Hours </p><p>-Charging Time: 30–50 Minutes</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_D3MPtp": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "What's In The Box",
+            "heading_tag": "h4",
+            "content": "<p>ZenCamPro Camera</p><p>-64GB Micro SD Card</p><p>- BackClip Mount</p><p>-User Manual</p><p>-Access To Phone App</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_A7Vka6": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Shipping & Delivery",
+            "heading_tag": "h4",
+            "content": "<p><strong>Processing Time:</strong> Orders ship within 1–2 business days.</p><p><strong>Delivery Time:</strong> Estimated 7–14 business days.</p><p><strong>Free Returns:</strong> Hassle-free returns, 30 days after purchase.<br/>Need help? Contact us at <a>support@zencampro.com</a></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_NAMEeP",
+        "item_D3MPtp",
+        "item_A7Vka6"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -676,6 +735,7 @@
     "text_with_icons_F7WFrc",
     "175096150094a9477b",
     "media_with_text_a7ihNd",
-    "press_6BxJLV"
+    "press_6BxJLV",
+    "multi_column_P7nFt9"
   ]
 }
