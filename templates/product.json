@@ -599,6 +599,48 @@
         "review_button_text_color": "#ffffff"
       }
     },
+    "accordion_content_6NeHkr": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_m8D6kY": {
+          "type": "item",
+          "settings": {
+            "title": "What's included in the box?",
+            "content": "<p>Inside your ZENCAMPRO™ package, you’ll find everything you need to start recording instantly:</p><p>✅ ZENCAMPRO™ Camera<br/>✅ 32 or 64 GB Micro SD Card<br/>✅ Helmet Mount<br/>✅ Bike Mount<br/>✅ BackClip Mount<br/>✅ User Manual<br/>✅ Access to the ZENCAMPRO™ Mobile App</p><p>Everything comes ready-to-use — just unbox, mount, and press record.</p>"
+          }
+        },
+        "item_iMrdnn": {
+          "type": "item",
+          "settings": {
+            "title": "Shipping & Delivery",
+            "content": "<p>We ship fast. Like, really fast.<br/>Orders are processed within 24 hours, and delivery usually takes:</p><p>📦 <strong>3–6 business days</strong> – EU countries<br/>🌍 <strong>6–12 business days</strong> – worldwide</p><p>Every order includes <strong>tracking</strong>, so you can follow your ZENCAMPRO™ every step of the way.<br/>Shipped from our EU-based warehouse for maximum speed and reliability.</p><p>✅ <strong>Insured shipping</strong><br/>✅ <strong>Real-time tracking</strong><br/>✅ <strong>Email & SMS updates</strong></p><p>No stress. No delays. Just quick delivery – the way it should be.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_m8D6kY",
+        "item_iMrdnn"
+      ],
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Heading",
+        "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "press_6BxJLV": {
       "type": "press",
       "blocks": {
@@ -716,56 +758,6 @@
         "review_header_text_color": "#000000",
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
-      }
-    },
-    "accordion_content_6NeHkr": {
-      "type": "accordion-content",
-      "blocks": {
-        "item_m8D6kY": {
-          "type": "item",
-          "settings": {
-            "title": "Question 1",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
-          }
-        },
-        "item_CGVhxX": {
-          "type": "item",
-          "settings": {
-            "title": "Question 2",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
-          }
-        },
-        "item_iMrdnn": {
-          "type": "item",
-          "settings": {
-            "title": "Question 3",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_m8D6kY",
-        "item_CGVhxX",
-        "item_iMrdnn"
-      ],
-      "name": "Accordion content",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Heading",
-        "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
       }
     }
   },
