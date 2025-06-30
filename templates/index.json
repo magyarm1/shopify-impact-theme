@@ -197,7 +197,7 @@
         "background": "#ffffff",
         "background_gradient": "",
         "heading_text_color": "#1a1a1a",
-        "heading_gradient": "linear-gradient(350deg, rgba(128, 60, 238, 1), rgba(246, 174, 45, 1) 100%)",
+        "heading_gradient": "linear-gradient(133deg, rgba(250, 220, 54, 1) 11%, rgba(254, 98, 146, 1) 49%, rgba(250, 220, 54, 1) 87%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
@@ -361,7 +361,7 @@
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": "linear-gradient(25deg, rgba(34, 41, 41, 1) 15%, rgba(33, 249, 150, 1) 85%)",
+        "heading_gradient": "linear-gradient(133deg, rgba(250, 220, 54, 1) 11%, rgba(254, 98, 146, 1) 49%, rgba(250, 220, 54, 1) 87%)",
         "button_background": "",
         "button_text_color": "",
         "accordion_background": "",
