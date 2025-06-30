@@ -393,11 +393,11 @@
         "impact_text_style": "fill",
         "text_divider": "none",
         "impact_text_size_ratio": 1,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(105, 255, 141, 1), rgba(128, 60, 238, 1) 2%, rgba(0, 0, 0, 1) 32%, rgba(162, 69, 238, 1) 65.468%, rgba(82, 218, 236, 1) 100%)",
-        "text_color": "",
+        "heading_gradient": "linear-gradient(180deg, rgba(255, 228, 49, 1), rgba(249, 32, 32, 1) 100%)",
+        "text_color": "#1a1a1a",
         "button_background": "",
         "button_text_color": ""
       }
@@ -601,26 +601,6 @@
     },
     "accordion_content_6NeHkr": {
       "type": "accordion-content",
-      "blocks": {
-        "item_m8D6kY": {
-          "type": "item",
-          "settings": {
-            "title": "What's included in the box?",
-            "content": "<p>Inside your ZENCAMPRO™ package, you’ll find everything you need to start recording instantly:</p><p>✅ ZENCAMPRO™ Camera<br/>✅ 32 or 64 GB Micro SD Card<br/>✅ Helmet Mount<br/>✅ Bike Mount<br/>✅ BackClip Mount<br/>✅ User Manual<br/>✅ Access to the ZENCAMPRO™ Mobile App</p><p>Everything comes ready-to-use — just unbox, mount, and press record.</p>"
-          }
-        },
-        "item_iMrdnn": {
-          "type": "item",
-          "settings": {
-            "title": "Shipping & Delivery",
-            "content": "<p>We ship fast. Like, really fast.<br/>Orders are processed within 24 hours, and delivery usually takes:</p><p>📦 <strong>3–6 business days</strong> – EU countries<br/>🌍 <strong>6–12 business days</strong> – worldwide</p><p>Every order includes <strong>tracking</strong>, so you can follow your ZENCAMPRO™ every step of the way.<br/>Shipped from our EU-based warehouse for maximum speed and reliability.</p><p>✅ <strong>Insured shipping</strong><br/>✅ <strong>Real-time tracking</strong><br/>✅ <strong>Email & SMS updates</strong></p><p>No stress. No delays. Just quick delivery – the way it should be.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_m8D6kY",
-        "item_iMrdnn"
-      ],
       "name": "Accordion content",
       "settings": {
         "full_width": true,
@@ -630,9 +610,9 @@
         "button_text": "",
         "button_url": "",
         "text_position": "start",
-        "background": "",
+        "background": "#1a1a1a",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#ffffff",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
