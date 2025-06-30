@@ -131,10 +131,6 @@
     "featured_product_EEQeAR": {
       "type": "featured-product",
       "blocks": {
-        "vendor_4ngUEk": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_GMMN4p": {
           "type": "title",
           "settings": {
@@ -198,7 +194,6 @@
         }
       },
       "block_order": [
-        "vendor_4ngUEk",
         "title_GMMN4p",
         "badges_xBeg8V",
         "price_VEDLVM",
@@ -276,8 +271,8 @@
             "subheading": "",
             "title": "Don’t Just Watch Capture It Like a Pro.",
             "content": "<p>Whether it’s a blink,fast rally or a once, in a lifetime play, ZENCAMPRO™ is built to keep up ,and stand out.<br/>Crisp, smooth, immersive footage that turns every match into a cinematic experience.<br/>The pros already love it. Now it’s your turn.</p>",
-            "link_text": "",
-            "link_url": "",
+            "link_text": "Add to Cart",
+            "link_url": "shopify://products/zencampro",
             "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#000000",
@@ -342,7 +337,7 @@
         "image_GpXPb4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_5836.gif",
+            "image": "shopify://shop_images/IMG_5937.gif",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -350,8 +345,8 @@
             "icon_width": 48,
             "subheading": "",
             "title": "Own the Moment. Stay in the Action.",
-            "content": "<p>With ZENCAMPRO™, you're not just capturing — you're living it.<br/>While others rely on luck,<strong>you record every split-second move</strong>from the front lines.<br/>No mounts. No distractions. Just raw energy, real adrenaline, and the freedom to move like never before.<br/><strong>Unmatched clarity. Zero limits.</strong>This is your story — don’t just play it...<strong>record it.</strong></p>",
-            "link_text": "",
+            "content": "<p>With ZENCAMPRO™, you’re not just capturing — you’re living it.<br/>While others rely on luck, <strong>you record every split-second move</strong> right from the front lines.</p><p>No mounts. No distractions.<br/>Just raw energy, real adrenaline, and full freedom to move like never before.</p><p><strong>Unmatched clarity. Zero limits.</strong><br/>This is your story — don’t just play it…<br/><strong>record it.</strong></p>",
+            "link_text": "Add to Cart",
             "link_url": "",
             "background": "#ffffff",
             "background_gradient": "",
@@ -377,9 +372,9 @@
         "item_WaKfJW": {
           "type": "item",
           "settings": {
-            "title": "10.000+",
-            "subheading": "Riders Can't Be Wrong",
-            "content": "<p>Join over 10,000 satisfied customers who chose ZENCAMPRO™ to record their wildest moments — hands-free, in HD, without limits.</p>",
+            "title": "5.000+",
+            "subheading": "Happy Customers Worldwide",
+            "content": "<p>Over 5,000 satisfied customers use ZENCAMPRO™<br/>to capture action-packed moments / in HD, hands-free, and without limits.</p>",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": false,
@@ -604,65 +599,6 @@
         "review_button_text_color": "#ffffff"
       }
     },
-    "multi_column_P7nFt9": {
-      "type": "multi-column",
-      "blocks": {
-        "item_NAMEeP": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Product Details",
-            "heading_tag": "h4",
-            "content": "<p><strong>-Dimensions:</strong> Thumb Size</p><p><strong>-Weight:</strong> 0.36 kg / 0.8 lbs</p><p><strong>-Tech Specs:</strong></p><p>-Video Quality: 1080p (1920 x 1080)</p><p>-Battery Capacity: 1200mAh</p><p>-Battery Life: Up to 4 Hours </p><p>-Charging Time: 30–50 Minutes</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_D3MPtp": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "What's In The Box",
-            "heading_tag": "h4",
-            "content": "<p>ZenCamPro Camera</p><p>-64GB Micro SD Card</p><p>- BackClip Mount</p><p>-User Manual</p><p>-Access To Phone App</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_A7Vka6": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Shipping & Delivery",
-            "heading_tag": "h4",
-            "content": "<p><strong>Processing Time:</strong> Orders ship within 1–2 business days.</p><p><strong>Delivery Time:</strong> Estimated 7–14 business days.</p><p><strong>Free Returns:</strong> Hassle-free returns, 30 days after purchase.<br/>Need help? Contact us at <a>support@zencampro.com</a></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_NAMEeP",
-        "item_D3MPtp",
-        "item_A7Vka6"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "small",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "Tech & Details",
-        "content": "<p>Discover what makes ZenCamPro the ultimate compact action cam. Everything you need to know before hitting record.</p>",
-        "background": "#1a1a1a",
-        "background_gradient": "",
-        "text_color": "#ffffff"
-      }
-    },
     "press_6BxJLV": {
       "type": "press",
       "blocks": {
@@ -781,6 +717,56 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "accordion_content_6NeHkr": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_m8D6kY": {
+          "type": "item",
+          "settings": {
+            "title": "Question 1",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
+          }
+        },
+        "item_CGVhxX": {
+          "type": "item",
+          "settings": {
+            "title": "Question 2",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
+          }
+        },
+        "item_iMrdnn": {
+          "type": "item",
+          "settings": {
+            "title": "Question 3",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_m8D6kY",
+        "item_CGVhxX",
+        "item_iMrdnn"
+      ],
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Heading",
+        "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -802,7 +788,7 @@
     "text_with_icons_F7WFrc",
     "media_with_text_a7ihNd",
     "175096150094a9477b",
-    "multi_column_P7nFt9",
+    "accordion_content_6NeHkr",
     "press_6BxJLV",
     "1751037162c8ef5792",
     "17510371963fa7aad8",
