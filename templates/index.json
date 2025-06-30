@@ -59,9 +59,9 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 7,
-        "background": "",
+        "background": "#1a1a1a",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#ffffff",
         "text_gradient": ""
       }
     },
@@ -78,9 +78,9 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Built for Real Time Action!",
+            "title": "Don’t Miss a Second. Capture It All ,Live.",
             "content": "<ul><li>Seamlessly connect via Wi-Fi — control, record, and transfer with zero delay.</li><li>Just tap and shoot — instant sync to your phone.</li><li>Don’t just watch — relive your moments as they happen.</li></ul>",
-            "link_text": "SHOP NOW",
+            "link_text": "Don’t Miss Out – Shop Now",
             "link_url": "shopify://products/zencampro",
             "background": "#ffffff",
             "background_gradient": "",
@@ -147,7 +147,7 @@
             "subheading": "",
             "title": "Ride. Record. Relive.",
             "content": "<p>Push your limits while ZENCAMPRO captures every moment in stunning detail. Shockproof, waterproof, and ready for your wildest ride.</p><p>- Fast shipping across Europe<br/>- Durable, compact, always stable<br/>- Trusted by extreme sports lovers</p>",
-            "link_text": "SHOP NOW",
+            "link_text": "Don’t Miss Out – Shop Now",
             "link_url": "shopify://products/zencampro",
             "background": "#ffffff",
             "background_gradient": "",
@@ -368,24 +368,66 @@
         "accordion_text_color": ""
       }
     },
-    "175128747193ac68c1": {
+    "1751287832dcb7b388": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "17512878727a272ac0": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "175128789890e61653": {
       "type": "apps",
       "blocks": {
-        "loox_reviews_loox_agg_section_G83K3i": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+        "loox_reviews_loox_trust_badge_AiAqjH": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-trust-badge/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": true
+            "layout": "horizontal",
+            "alignment": "left",
+            "scheme-type": "default",
+            "review-title": "reviews",
+            "rating-icon": true,
+            "average-rating": true,
+            "loox-branding": true,
+            "review-count": true,
+            "open-reviews": true,
+            "show-border": true,
+            "border-radius": 8,
+            "font-size": 20,
+            "background-color": "",
+            "secondary-background-color": "",
+            "text-color": "",
+            "rating-icon-color": "",
+            "border-color": ""
           }
         }
       },
       "block_order": [
-        "loox_reviews_loox_agg_section_G83K3i"
+        "loox_reviews_loox_trust_badge_AiAqjH"
       ],
       "settings": {
         "full_width": true,
@@ -412,6 +454,8 @@
     "press",
     "text_with_icons_kT7WTG",
     "faq_tV7dmH",
-    "175128747193ac68c1"
+    "1751287832dcb7b388",
+    "17512878727a272ac0",
+    "175128789890e61653"
   ]
 }
