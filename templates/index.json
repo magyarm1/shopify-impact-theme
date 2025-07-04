@@ -138,6 +138,7 @@
         "image_y8UPGm": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/IMG_5826.gif",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
