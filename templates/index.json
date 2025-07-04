@@ -15,6 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Never_Miss_a_Moment_Whether_for_Fun_or_Safety.-4.png",
+            "mobile_image": "shopify://shop_images/Record_Every_Ride._Stay_Protected._Anytime.-2.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
