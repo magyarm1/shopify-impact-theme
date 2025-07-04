@@ -59,7 +59,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 7,
-        "background": "#00bfff",
+        "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": "#ffffff",
         "text_gradient": ""
@@ -71,7 +71,7 @@
         "image_LVz34C": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_5825.gif",
+            "image": "shopify://shop_images/IMG_5827.gif",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
