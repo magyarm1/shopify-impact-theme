@@ -71,8 +71,8 @@
         "heading_XjtBfc": {
           "type": "heading",
           "settings": {
-            "text": "Your Life. Your Proof. Anytime.",
-            "heading_tag": "h4",
+            "text": "Why Shop with Trendoox?",
+            "heading_tag": "h5",
             "text_color": "#1a1a1a",
             "gradient": "linear-gradient(241deg, rgba(26, 26, 26, 1) 100%, rgba(48, 145, 211, 1) 100%)"
           }
@@ -80,7 +80,7 @@
         "richtext_6y8XLR": {
           "type": "richtext",
           "settings": {
-            "content": "<p>-Full HD recording — Clear evidence in any situation<br/>-Lightweight & pocket-sized — Always with you<br/>-Sport. Travel. Security — One device, unlimited uses<br/>-Built for action — Shock-resistant design<br/>-Trusted by thousands — Growing US community<br/>-Instant replay — Capture & relive every moment</p>"
+            "content": "<p><strong>Premium Quality Products</strong><br/>Carefully selected and tested to meet high standards.</p><p><strong>Fast EU Delivery</strong><br/>7–14 working days shipping across Europe.</p><p><strong>100% Secure Checkout</strong><br/>Pay safely with trusted payment providers.</p><p><strong>24/7 Customer Support</strong><br/>Always here to help you, day or night.</p><p><strong>Trusted by Thousands</strong><br/>Join our growing community of satisfied customers.</p><p><strong>Easy Returns</strong><br/>Hassle-free returns if you change your mind.</p>"
           }
         }
       },
@@ -104,9 +104,9 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "Trusted by Pros",
-            "content": "<p>Relied on by athletes, bikers & security teams. Clear footage in any condition.<br/></p>",
-            "button_text": "SHOP NOW",
+            "subheading": "Preferred by Experts",
+            "content": "<p><strong>Carefully selected by pros. Trusted by thousands.Every item solves a real problem – no gimmicks, just results.Built for everyday use. Backed by performance.</strong></p>",
+            "button_text": "",
             "button_url": "shopify://products/zencampro",
             "animate_impact_text": false,
             "animate_impact_text_duration": 2
@@ -361,6 +361,32 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "featured_collection_CiFieW": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Featured collection",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
@@ -374,6 +400,7 @@
     "1751287832dcb7b388",
     "17512878727a272ac0",
     "175128789890e61653",
-    "1751631184f9b8c511"
+    "1751631184f9b8c511",
+    "featured_collection_CiFieW"
   ]
 }
