@@ -15,8 +15,6 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Never_Miss_a_Moment_Whether_for_Fun_or_Safety.-4.png",
-            "mobile_image": "shopify://shop_images/Record_Every_Ride._Stay_Protected._Anytime.-2.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -65,41 +63,6 @@
         "text_gradient": ""
       }
     },
-    "media_with_text_kiiBhF": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_LVz34C": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/IMG_5827.gif",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Don’t Miss a Second. Capture It All ,Live.",
-            "content": "<ul><li>Seamlessly connect via Wi-Fi — control, record, and transfer with zero delay.</li><li>Just tap and shoot — instant sync to your phone.</li><li>Don’t just watch — relive your moments as they happen.</li></ul>",
-            "link_text": "Don’t Miss Out – Shop Now",
-            "link_url": "shopify://products/zencampro",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_LVz34C"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
-      }
-    },
     "rich_text_xFGCyf": {
       "type": "rich-text",
       "blocks": {
@@ -138,7 +101,6 @@
         "image_y8UPGm": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_5826.gif",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -418,33 +380,6 @@
     },
     "1751631184f9b8c511": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_trust_badge_QWTDUq": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-trust-badge/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "layout": "horizontal",
-            "alignment": "left",
-            "scheme-type": "default",
-            "review-title": "reviews",
-            "rating-icon": true,
-            "average-rating": true,
-            "loox-branding": true,
-            "review-count": true,
-            "open-reviews": true,
-            "show-border": true,
-            "border-radius": 8,
-            "font-size": 20,
-            "background-color": "",
-            "secondary-background-color": "",
-            "text-color": "",
-            "rating-icon-color": "",
-            "border-color": ""
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_trust_badge_QWTDUq"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -463,7 +398,6 @@
   "order": [
     "slideshow",
     "scrolling-text",
-    "media_with_text_kiiBhF",
     "rich_text_xFGCyf",
     "media_with_text_n6Wdq3",
     "impact_text_fXEQTd",
