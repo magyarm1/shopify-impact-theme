@@ -105,7 +105,7 @@
           "settings": {
             "title": "100%",
             "subheading": "Preferred by Experts",
-            "content": "<p><strong>Carefully selected by pros. Trusted by thousands.Every item solves a real problem – no gimmicks, just results.Built for everyday use. Backed by performance.</strong></p>",
+            "content": "<p><strong>Tested and selected for everyday convenience, practicality, and real-life usefulness.<br/></strong></p>",
             "button_text": "",
             "button_url": "shopify://products/zencampro",
             "animate_impact_text": false,
@@ -265,8 +265,8 @@
         "item_HgTBfA": {
           "type": "item",
           "settings": {
-            "title": "How long does the battery last?",
-            "content": "<p>✅ 1080p: up to 150 minutes<br/>✅ 2K: up to 120 minutes<br/>✅ 4K: up to 90 minutes</p>"
+            "title": "",
+            "content": ""
           }
         }
       },
