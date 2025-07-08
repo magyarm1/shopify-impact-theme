@@ -59,7 +59,7 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 7,
-        "background": "#1a1a1a",
+        "background": "#000000",
         "background_gradient": "",
         "text_color": "#ffffff",
         "text_gradient": ""
@@ -95,40 +95,6 @@
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "media_with_text_n6Wdq3": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_y8UPGm": {
-          "type": "image",
-          "settings": {
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Ride. Record. Relive.",
-            "content": "<p>Push your limits while ZENCAMPRO captures every moment in stunning detail. Shockproof, waterproof, and ready for your wildest ride.</p><p>- Fast shipping across Europe<br/>- Durable, compact, always stable<br/>- Trusted by extreme sports lovers</p>",
-            "link_text": "Don’t Miss Out – Shop Now",
-            "link_url": "shopify://products/zencampro",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_y8UPGm"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
       }
     },
     "impact_text_fXEQTd": {
@@ -401,7 +367,6 @@
     "slideshow",
     "scrolling-text",
     "rich_text_xFGCyf",
-    "media_with_text_n6Wdq3",
     "impact_text_fXEQTd",
     "press",
     "text_with_icons_kT7WTG",
