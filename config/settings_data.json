@@ -144,7 +144,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".loox-review-date {display: none !important;}"
+      ".drawer__inner {background-color: #000000 !important;}",
+      ".drawer__menu-item {color: #ffffff !important;}"
     ]
   }
 }
