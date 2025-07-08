@@ -18,9 +18,9 @@
     "icon_style": "duo",
     "background": "#ffffff",
     "text_color": "#1a1a1a",
-    "header_background": "#1a1a1a",
+    "header_background": "#000000",
     "header_text_color": "#ffffff",
-    "footer_background": "#1a1a1a",
+    "footer_background": "#000000",
     "footer_text_color": "#ffffff",
     "dialog_background": "#ffffff",
     "primary_button_background": "#1a1a1a",
@@ -42,42 +42,7 @@
     "social_tiktok": "https://www.tiktok.com/@zencampro?_t=ZN-8xkJqVMrr7u&_r=1",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": [],
-    "blocks": {
-      "11532412952436166569": {
-        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-        "disabled": false,
-        "settings": {}
-      },
-      "2153490007123654574": {
-        "type": "shopify://apps/consentmo-gdpr/blocks/gdpr_cookie_consent/4fbe573f-a377-4fea-9801-3ee0858cae41",
-        "disabled": false,
-        "settings": {}
-      },
-      "16477348613150133823": {
-        "type": "shopify://apps/unlimited-bundles/blocks/script-app-block/d33d0f48-dee0-42a0-b156-2a5dce91814a",
-        "disabled": false,
-        "settings": {
-          "reload_on_line_item_properties": false,
-          "disable_reload_on_cart_update": false,
-          "disable_cart_attribute_tracker": false,
-          "disable_facebook_events": false,
-          "enable_reload_on_bundle_auto_match": false,
-          "use_h2_header": false,
-          "match_cart_discount_title": false
-        }
-      },
-      "855628211100114053": {
-        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
-        "settings": {}
-      },
-      "7421546185640437913": {
-        "type": "shopify://apps/tixel-multi-pixels/blocks/app-embed/b273c4b8-95ba-409d-a87c-c46907e02629",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Home": {
