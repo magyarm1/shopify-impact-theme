@@ -208,7 +208,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "zencampro",
+        "product": "vacpack™-vacuum-backpack",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -217,7 +217,7 @@
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -262,7 +262,6 @@
         "image_bgq8Rz": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_5825.gif",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -337,7 +336,6 @@
         "image_GpXPb4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_5937.gif",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
@@ -408,7 +406,6 @@
         "image_zKP6tW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_5829.gif",
             "title": "No shakes. Just clean, cinematic shots.",
             "heading_tag": "h6",
             "link_url": "shopify://products/zencampro",
@@ -430,7 +427,6 @@
         "image_hgR6JD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_5822.gif",
             "title": "Real Moments. Real Angles. No Hands Needed.",
             "heading_tag": "h6",
             "link_url": "shopify://products/zencampro",
@@ -452,7 +448,6 @@
         "image_xcWfne": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_5828.gif",
             "title": "Your Pocket-Sized Powerhouse.",
             "heading_tag": "h6",
             "link_url": "shopify://products/zencampro",
@@ -554,7 +549,6 @@
         "image_MCxAED": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_5824.gif",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
@@ -707,22 +701,6 @@
     },
     "1751037237459a6951": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_tWJJyc": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_tWJJyc"
-      ],
       "custom_css": [
         ".loox-review .loox-review-footer .loox-review-date,.loox-review-popup .loox-review-date,.loox-review__date,.loox-date {display: none !important;}"
       ],
