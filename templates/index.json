@@ -362,33 +362,33 @@
         "review_button_text_color": "#ffffff"
       }
     },
-    "image_with_text_overlay_hc4Dhg": {
+    "image_with_text_overlay_7kQKzz": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_NrfLhg": {
+        "subheading_866HEE": {
           "type": "subheading",
           "settings": {
-            "text": ""
+            "text": "Subheading"
           }
         },
-        "heading_kLQ8F3": {
+        "heading_gjcT9m": {
           "type": "heading",
           "settings": {
-            "text": "",
+            "text": "Image with text overlay",
             "heading_tag": "h1"
           }
         },
-        "richtext_nFRrGc": {
+        "richtext_PAyGeP": {
           "type": "richtext",
           "settings": {
-            "content": ""
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_NrfLhg",
-        "heading_kLQ8F3",
-        "richtext_nFRrGc"
+        "subheading_866HEE",
+        "heading_gjcT9m",
+        "richtext_PAyGeP"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -400,7 +400,7 @@
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
-        "overlay_color": "#1a1a1a",
+        "overlay_color": "#000000",
         "overlay_opacity": 0
       }
     }
@@ -417,6 +417,6 @@
     "17512878727a272ac0",
     "175128789890e61653",
     "1751631184f9b8c511",
-    "image_with_text_overlay_hc4Dhg"
+    "image_with_text_overlay_7kQKzz"
   ]
 }
