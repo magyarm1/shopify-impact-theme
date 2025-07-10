@@ -453,28 +453,6 @@
         "review_button_text_color": "#ffffff"
       }
     },
-    "accordion_content_6NeHkr": {
-      "type": "accordion-content",
-      "name": "Accordion content",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Pack More. Worry Less.",
-        "content": "<p>Take control of your travels with the VacPack™ vacuum compression technology that saves space, adds comfort, and keeps you moving smarter.</p>",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "#1a1a1a",
-        "background_gradient": "",
-        "text_color": "#ffffff",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
     "multiple_images_with_text_aAUAkz": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -791,7 +769,6 @@
     "impact_text_BcCrLY",
     "media_with_text_a7ihNd",
     "175096150094a9477b",
-    "accordion_content_6NeHkr",
     "multiple_images_with_text_aAUAkz",
     "press_6BxJLV",
     "1751037162c8ef5792",
