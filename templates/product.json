@@ -459,8 +459,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Your Moments. Your Freedom. Your Cam.",
-        "content": "<p>Capture your world without limits — hands-free, stress-free. ZENCAMPRO™ is designed for creators, adventurers, and everyday legends who want to film life as it happens.</p>",
+        "title": "Pack More. Worry Less.",
+        "content": "<p>Take control of your travels with the VacPack™ vacuum compression technology that saves space, adds comfort, and keeps you moving smarter.</p>",
         "button_text": "",
         "button_url": "",
         "text_position": "start",
@@ -741,6 +741,37 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "multiple_images_with_text_aAUAkz": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_HEBgTq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Nevtelen_terv_-_2025-03-31T123926_159_png.webp",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Water Resistant Material",
+            "content": "<p>Rain, sun or snow. Protect your gear in any condition.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_HEBgTq"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "top",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -761,6 +792,7 @@
     "media_with_text_a7ihNd",
     "175096150094a9477b",
     "accordion_content_6NeHkr",
+    "multiple_images_with_text_aAUAkz",
     "press_6BxJLV",
     "1751037162c8ef5792",
     "17510371963fa7aad8",
