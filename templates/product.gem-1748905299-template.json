@@ -294,6 +294,48 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "image_with_text_overlay_VXxchk": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_zLqXqc": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_8mwwAM": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_7egE4C": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_zLqXqc",
+        "heading_8mwwAM",
+        "richtext_7egE4C"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/d6282aaa-4579-4012-b6bf-6cae21b38f0b.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
@@ -302,6 +344,7 @@
     "media_with_text_jaYy7K",
     "text_with_icons_dnhkcF",
     "related-products",
-    "175216623769f9294f"
+    "175216623769f9294f",
+    "image_with_text_overlay_VXxchk"
   ]
 }
