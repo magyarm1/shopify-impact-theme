@@ -65,36 +65,32 @@
         "text_gradient": ""
       }
     },
-    "rich_text_xFGCyf": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_XjtBfc": {
-          "type": "heading",
-          "settings": {
-            "text": "Why Shop with Trendoox?",
-            "heading_tag": "h5",
-            "text_color": "#1a1a1a",
-            "gradient": "linear-gradient(241deg, rgba(26, 26, 26, 1) 100%, rgba(48, 145, 211, 1) 100%)"
-          }
-        },
-        "richtext_6y8XLR": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>Premium Quality Products</strong><br/>Carefully selected and tested to meet high standards.</p><p><strong>Fast EU Delivery</strong><br/>7–14 working days shipping across Europe.</p><p><strong>100% Secure Checkout</strong><br/>Pay safely with trusted payment providers.</p><p><strong>24/7 Customer Support</strong><br/>Always here to help you, day or night.</p><p><strong>Trusted by Thousands</strong><br/>Join our growing community of satisfied customers.</p><p><strong>Easy Returns</strong><br/>Hassle-free returns if you change your mind.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_XjtBfc",
-        "richtext_6y8XLR"
-      ],
+    "featured_collection_yBdpRt": {
+      "type": "featured-collection",
+      "name": "Featured collection",
       "settings": {
+        "collection": "frontpage",
+        "products": [
+          "vacpack™-vacuum-backpack"
+        ],
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#ffffff",
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Featured collection",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "impact_text_fXEQTd": {
@@ -355,7 +351,7 @@
   "order": [
     "slideshow",
     "scrolling-text",
-    "rich_text_xFGCyf",
+    "featured_collection_yBdpRt",
     "impact_text_fXEQTd",
     "press",
     "text_with_icons_kT7WTG",
