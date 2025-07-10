@@ -138,7 +138,7 @@
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
         "html": "<h2 style=\"color:white; font-size:28px; text-align:center; margin-bottom:10px;\">\n  Limited Time Offer – Save €25 When You Bundle!\n</h2>\n<div data-revy-bundle-id=\"0ea36d4f-9b70-47b6-bd48-34373b903d9e\"></div>",
-        "background": "#1a1a1a",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
