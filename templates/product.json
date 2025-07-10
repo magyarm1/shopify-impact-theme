@@ -262,16 +262,17 @@
         "image_bgq8Rz": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Compression_Technology_Odor-Free_Compartment.png",
             "media_width": 50,
             "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Don’t Just Watch Capture It Like a Pro.",
-            "content": "<p>Whether it’s a blink,fast rally or a once, in a lifetime play, ZENCAMPRO™ is built to keep up ,and stand out.<br/>Crisp, smooth, immersive footage that turns every match into a cinematic experience.<br/>The pros already love it. Now it’s your turn.</p>",
+            "title": "VacPack™ Vacuum Compression System",
+            "content": "<p>The VacPack™ is equipped with a built-in vacuum compression system that allows you to maximize your packing space by reducing the volume of clothes and other items. From now on, you won’t have to worry about overpacking or fitting in that extra jacket!</p>",
             "link_text": "Add to Cart",
-            "link_url": "shopify://products/zencampro",
+            "link_url": "shopify://products/vacpack™-vacuum-backpack",
             "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#000000",
@@ -302,7 +303,7 @@
         "heading_e9iNex": {
           "type": "heading",
           "settings": {
-            "text": "Built for Those Who Don't Miss a Moment",
+            "text": "Smart Organization",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -311,7 +312,7 @@
         "richtext_yDCHmW": {
           "type": "richtext",
           "settings": {
-            "content": "<p>You don’t settle — neither do we.<br/>ZENCAMPRO™ was created for adventurers, athletes, and creators who want to <strong>capture every heartbeat of the action</strong>— crystal clear and hands-free.<br/>Whether you're riding, running, or climbing, this is more than a camera.<br/><strong>It’s your third eye.</strong></p>"
+            "content": "<p><strong>Need to pack a lot?</strong>Vackpack’s pockets and compartments keep everything organized  and it's expandable too, giving you extra space for souvenirs or last-minute items. A practical and tidy solution for life on the go!</p><p></p>"
           }
         }
       },
