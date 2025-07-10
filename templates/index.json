@@ -94,6 +94,19 @@
         "product_card_text_color": ""
       }
     },
+    "custom_html_PWYwjC": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<h2 style=\"color:white; font-size:28px; text-align:center; margin-bottom:10px;\">\n  Limited Time Offer – Save €25 When You Bundle!\n</h2>\n<div data-revy-bundle-id=\"0ea36d4f-9b70-47b6-bd48-34373b903d9e\"></div>",
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "impact_text_fXEQTd": {
       "type": "impact-text",
       "blocks": {
@@ -349,6 +362,22 @@
         "review_button_text_color": "#ffffff"
       }
     },
+    "175216682409ff105e": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "image_with_text_overlay_7kQKzz": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -390,41 +419,13 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
-    },
-    "175216682409ff105e": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
-    },
-    "custom_html_PWYwjC": {
-      "type": "custom-html",
-      "name": "Custom HTML",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "html": "<h2 style=\"color:white; font-size:28px; text-align:center; margin-bottom:10px;\">\n  Limited Time Offer – Save €25 When You Bundle!\n</h2>\n<div data-revy-bundle-id=\"0ea36d4f-9b70-47b6-bd48-34373b903d9e\"></div>",
-        "background": "#000000",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
     "slideshow",
     "scrolling-text",
     "featured_collection_yBdpRt",
+    "custom_html_PWYwjC",
     "impact_text_fXEQTd",
     "press",
     "text_with_icons_kT7WTG",
@@ -433,8 +434,7 @@
     "175128789890e61653",
     "1751631184f9b8c511",
     "1752166811bbe2c0bb",
-    "image_with_text_overlay_7kQKzz",
     "175216682409ff105e",
-    "custom_html_PWYwjC"
+    "image_with_text_overlay_7kQKzz"
   ]
 }
