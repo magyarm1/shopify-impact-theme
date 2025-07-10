@@ -109,6 +109,41 @@
         "input_text_color": ""
       }
     },
+    "media_with_text_jaYy7K": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_dbAjRm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_6413.gif",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Vacuum Compression Made Easy",
+            "content": "<p>Just pack your clothes, seal the bag, and press the button. The built-in pump removes all the air in seconds—saving up to 50% space instantly. No manual rolling, no hassle.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_dbAjRm"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -166,6 +201,7 @@
   },
   "order": [
     "main",
+    "media_with_text_jaYy7K",
     "related-products",
     "175216623769f9294f"
   ]
