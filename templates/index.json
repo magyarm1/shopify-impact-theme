@@ -245,59 +245,6 @@
         "text_color": ""
       }
     },
-    "faq_tV7dmH": {
-      "type": "faq",
-      "blocks": {
-        "item_iN6rRd": {
-          "type": "item",
-          "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship worldwide! Shipping costs are calculated at checkout. Keep an eye out for our year-round promotions and exclusive deals.</p>"
-          }
-        },
-        "item_YXrrDb": {
-          "type": "item",
-          "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>Delivery times vary by location. Domestic orders typically arrive within 5–7 business days, while international orders may take 7–16 days. You'll receive tracking details via email once your order is shipped.</p>"
-          }
-        },
-        "item_HgTBfA": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_iN6rRd",
-        "item_YXrrDb",
-        "item_HgTBfA"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "linear-gradient(0deg, rgba(54, 212, 255, 1) 2%, rgba(249, 119, 255, 1) 8%, rgba(64, 182, 255, 1) 33.813%, rgba(43, 252, 135, 1) 83%)",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
     "1751287832dcb7b388": {
       "type": "apps",
       "settings": {
@@ -412,7 +359,6 @@
     "impact_text_fXEQTd",
     "press",
     "text_with_icons_kT7WTG",
-    "faq_tV7dmH",
     "1751287832dcb7b388",
     "17512878727a272ac0",
     "175128789890e61653",
