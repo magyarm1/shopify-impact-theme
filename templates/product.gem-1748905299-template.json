@@ -336,6 +336,19 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "custom_liquid_ewRU9R": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<h2 style=\"color:white; font-size:28px; text-align:center; margin-bottom:10px;\">\n  Limited Time Offer – Save €25 When You Bundle!\n</h2>\n<div data-revy-bundle-id=\"0ea36d4f-9b70-47b6-bd48-34373b903d9e\"></div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -345,6 +358,7 @@
     "text_with_icons_dnhkcF",
     "related-products",
     "175216623769f9294f",
-    "image_with_text_overlay_VXxchk"
+    "image_with_text_overlay_VXxchk",
+    "custom_liquid_ewRU9R"
   ]
 }
