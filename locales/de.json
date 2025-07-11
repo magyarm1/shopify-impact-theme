@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "page": "Seite {{ page }}",
@@ -84,7 +93,7 @@
       "view_in_space": "In deinem Bereich ansehen",
       "taxes_included": "inkl. MwSt.",
       "taxes_excluded": "zzgl. MwSt.",
-      "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link\">Versandkosten<\/a> werden an der Kasse berechnet",
+      "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link\">Versandkosten</a> werden an der Kasse berechnet",
       "size_chart": "Größentabelle",
       "available_colors_count": {
         "one": "{{ count }} Farbe verfügbar",
@@ -413,6 +422,41 @@
         "one": "Es hat {{ count }} Bewertung erhalten.",
         "other": "Es hat {{ count }} Bewertungen erhalten."
       }
+    }
+  },
+  "gempages": {
+    "Carousel": {
+      "no_slider": "Kein Schieberegler"
+    },
+    "Newsletter": {
+      "err_msg_default": "E-Mail kann nicht gesendet werden. Bitte versuchen Sie es später noch einmal.",
+      "success_msg_default": "Vielen Dank für Ihre Kontaktaufnahme. Wir werden uns schnellstmöglich bei Ihnen melden."
+    },
+    "IconListV2": {
+      "icons_not_found": "Symbole nicht gefunden"
+    },
+    "IconList": {
+      "icons_not_found": "Symbole nicht gefunden"
+    },
+    "IconListHoz": {
+      "icons_not_found": "Symbole nicht gefunden"
+    },
+    "Product": {
+      "product_not_found": "Produkt nicht gefunden"
+    },
+    "ProductList": {
+      "product_not_found": "Produkt nicht gefunden!",
+      "no_products_found": "Keine Produkte gefunden!",
+      "no_related_products": "Keine verwandten Produkte!"
+    },
+    "ProductTitle": {
+      "product_not_found": "Produkt nicht gefunden"
+    },
+    "ProductVariants": {
+      "please_select": "Bitte wählen Sie eine Option"
+    },
+    "StockCounter": {
+      "let_buy_now": "<mark>BEEIL DICH!</mark> JETZT KAUFEN"
     }
   }
 }
