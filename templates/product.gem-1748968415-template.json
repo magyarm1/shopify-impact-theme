@@ -253,6 +253,38 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "video_XJgT4B": {
+      "type": "video",
+      "blocks": {
+        "play_MbmR9L": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_mRAYff": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_MbmR9L",
+        "heading_mRAYff"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/MagMaster V2 | Magnetic Tool & Hardware Holder.mov",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
@@ -260,6 +292,7 @@
     "related-products",
     "media_with_text_rHRW3Q",
     "media_with_text_9ydN7U",
-    "faq_PMPgXG"
+    "faq_PMPgXG",
+    "video_XJgT4B"
   ]
 }
