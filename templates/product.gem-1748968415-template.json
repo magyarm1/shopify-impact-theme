@@ -18,7 +18,9 @@
         },
         "title": {
           "type": "title",
-          "settings": {}
+          "settings": {
+            "heading_tag": "h2"
+          }
         },
         "badges": {
           "type": "badges",
@@ -26,11 +28,15 @@
         },
         "price": {
           "type": "price",
-          "settings": {}
+          "settings": {
+            "show_taxes_notice": false
+          }
         },
         "rating": {
           "type": "rating",
-          "settings": {}
+          "settings": {
+            "show_empty": false
+          }
         },
         "payment_terms": {
           "type": "payment_terms",
@@ -42,11 +48,19 @@
         },
         "description": {
           "type": "description",
-          "settings": {}
+          "settings": {
+            "collapse_content": false
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
-          "settings": {}
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
         },
         "quantity_selector": {
           "type": "quantity_selector",
@@ -54,11 +68,14 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
-          "settings": {}
-        },
-        "pickup_availability": {
-          "type": "pickup_availability",
-          "settings": {}
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
         }
       },
       "block_order": [
@@ -74,15 +91,85 @@
         "quantity_selector",
         "buy_buttons"
       ],
-      "settings": {}
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     },
     "related-products": {
       "type": "related-products",
-      "settings": {}
+      "settings": {
+        "recommendations_count": 6,
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "media_with_text_rHRW3Q": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_4bTEdd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/magmaster-v2-banner4_1024x1024_jpg.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "WORK FASTER WITH A THIRD HAND",
+            "content": "<ul><li><strong>Stop misplacing tools or fumbling with loose hardware. </strong>MagMaster keeps them organized and within easy reach, saving you time and sanity!</li><li><strong>Speed up your workflow and maximize efficiency.</strong> Clip MagMaster onto your belt, bag, backpack strap, or pocket.</li><li><strong>Amazingly strong magnet</strong> ensures tools stay put.</li></ul>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_4bTEdd"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "media_with_text_rHRW3Q"
   ]
 }

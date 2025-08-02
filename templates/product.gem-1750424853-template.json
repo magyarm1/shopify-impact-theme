@@ -131,91 +131,6 @@
         "product_card_text_color": ""
       }
     },
-    "faq_9CxcLH": {
-      "type": "faq",
-      "blocks": {
-        "item_tTFRFj": {
-          "type": "item",
-          "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
-          }
-        },
-        "item_dMT8hB": {
-          "type": "item",
-          "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
-          }
-        },
-        "item_gwpJRT": {
-          "type": "item",
-          "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_tTFRFj",
-        "item_dMT8hB",
-        "item_gwpJRT"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
-        "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
-    "video_BXYwHE": {
-      "type": "video",
-      "blocks": {
-        "play_tiB4H6": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_GnLDtH": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_tiB4H6",
-        "heading_GnLDtH"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "lg",
-        "video": "shopify://files/videos/MagMaster V2 | Magnetic Tool & Hardware Holder.mov",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "175406642558e7f282": {
       "type": "apps",
       "blocks": {
@@ -233,8 +148,8 @@
             "itemBackgroundColor": "#ffffff",
             "starsColor": "",
             "starsBackgroundColor": "#ffffff",
-            "arrows_backgroundColor": "#FFFFFF",
-            "arrows_iconColor": "#9A9A9A",
+            "arrows_backgroundColor": "#ffffff",
+            "arrows_iconColor": "#9a9a9a",
             "shadow": "offset-dark",
             "border_active": false,
             "border_width": 2,
@@ -264,8 +179,6 @@
   "order": [
     "main",
     "related-products",
-    "faq_9CxcLH",
-    "video_BXYwHE",
     "175406642558e7f282"
   ]
 }
