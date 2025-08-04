@@ -331,6 +331,41 @@
         "accordion_text_color": ""
       }
     },
+    "media_with_text_67KhWB": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_GReg7W": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/S2868c0475af44c7faefa04c4c9bed3d7M_jpg.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "No More Lost Tools or Ripped Pockets",
+            "content": "<p>Whether it's a tape measure or pliers, MagDoox™ keeps your tools exactly where you need them — right on your side.<br/>Strong neodymium magnets hold everything in place, while the slim clip attaches to your belt in seconds.<br/>No more fumbling, no more bulging pockets. Just fast, reliable access every time.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_GReg7W"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "video_XJgT4B": {
       "type": "video",
       "blocks": {
@@ -395,39 +430,31 @@
         "review_button_text_color": "#ffffff"
       }
     },
-    "media_with_text_67KhWB": {
-      "type": "media-with-text",
+    "image_with_text_overlay_iEzTet": {
+      "type": "image-with-text-overlay",
       "blocks": {
-        "image_GReg7W": {
-          "type": "image",
+        "subheading_tafqaU": {
+          "type": "subheading",
           "settings": {
-            "image": "shopify://shop_images/S2868c0475af44c7faefa04c4c9bed3d7M_jpg.webp",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "No More Lost Tools or Ripped Pockets",
-            "content": "<p>Whether it's a tape measure or pliers, MagDoox™ keeps your tools exactly where you need them — right on your side.<br/>Strong neodymium magnets hold everything in place, while the slim clip attaches to your belt in seconds.<br/>No more fumbling, no more bulging pockets. Just fast, reliable access every time.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
+            "text": ""
           }
         }
       },
       "block_order": [
-        "image_GReg7W"
+        "subheading_tafqaU"
       ],
-      "name": "Media with text",
+      "name": "Image with text overlay",
       "settings": {
-        "full_width": false,
-        "spacing": "small"
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/b3a66b5a-e440-4d00-989e-a240b03455e6.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     }
   },
@@ -441,6 +468,7 @@
     "faq_PMPgXG",
     "media_with_text_67KhWB",
     "video_XJgT4B",
-    "1754136243d4245a31"
+    "1754136243d4245a31",
+    "image_with_text_overlay_iEzTet"
   ]
 }
