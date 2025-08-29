@@ -141,19 +141,20 @@
         "image_GHRGcp": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/A98840FE-4A96-4326-B537-636EAE807460_jpg.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Tired of Slouching?",
+            "content": "<p>Say goodbye to slouching and discomfort with the <strong>ComfortLift™ posture-correcting bra</strong>.<br/>✨ Designed to gently pull your shoulders back → instantly improves alignment.<br/>✨ Soft, wire-free and breathable support → all-day comfort without pain.<br/>✨ Feel the difference from the very first wear.</p>",
             "link_text": "",
             "link_url": "",
-            "background": "#000000",
+            "background": "#ffffff",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#000000",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -221,30 +222,6 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
-    },
-    "before_after_image_8gHVKH": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "before_image": "shopify://shop_images/A98840FE-4A96-4326-B537-636EAE807460_jpg.webp",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
     }
   },
   "order": [
@@ -252,7 +229,6 @@
     "main",
     "related-products",
     "media_with_text_NE4gEi",
-    "faq_KiwyVM",
-    "before_after_image_8gHVKH"
+    "faq_KiwyVM"
   ]
 }
