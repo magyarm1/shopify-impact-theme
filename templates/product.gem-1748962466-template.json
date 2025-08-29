@@ -170,6 +170,57 @@
         "spacing": "small"
       }
     },
+    "scrolling_text_PeWXDn": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Goodbye Back Pain – Hello Comfort & Support.",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "media_with_text_wYejFf": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_rz37wd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/a88b1a92-2e54-4d46-9728-f23c774fe54d.png",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Find Your Perfect Fit",
+            "content": "<p>Choose your most comfortable size with the chart below!<br/>This guide helps you get the perfect support and comfort – if you’re between two sizes, we recommend going with the larger one for the best fit.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_rz37wd"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "faq_KiwyVM": {
       "type": "faq",
       "blocks": {
@@ -222,6 +273,38 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "1756494459bb8312bb": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_QBQCbc": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_QBQCbc"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -229,6 +312,9 @@
     "main",
     "related-products",
     "media_with_text_NE4gEi",
-    "faq_KiwyVM"
+    "scrolling_text_PeWXDn",
+    "media_with_text_wYejFf",
+    "faq_KiwyVM",
+    "1756494459bb8312bb"
   ]
 }
