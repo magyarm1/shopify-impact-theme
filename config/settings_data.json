@@ -66,6 +66,11 @@
         "type": "shopify://apps/seoant-page-speed/blocks/pagespeed-preloading/b6edaf80-ee08-4404-951c-d8f577b5c1b1",
         "disabled": false,
         "settings": {}
+      },
+      "7421546185640437913": {
+        "type": "shopify://apps/tixel/blocks/app-embed/b273c4b8-95ba-409d-a87c-c46907e02629",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
