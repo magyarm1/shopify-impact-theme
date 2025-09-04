@@ -1,6 +1,234 @@
+{% doc %}
+  @prompt
+    Large bold text filled with an image. Include a setting to control the background color.
+
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-image-text-{{ ai_gen_id }} {
+    background-color: {{ block.settings.background_color }};
+    padding: {{ block.settings.padding }}px;
+    text-align: {{ block.settings.text_alignment }};
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .ai-image-text__content-{{ ai_gen_id }} {
+    position: relative;
+    display: inline-block;
+  }
+
+  .ai-image-text__heading-{{ ai_gen_id }} {
+    font-size: {{ block.settings.font_size }}px;
+    font-weight: 900;
+    margin: 0;
+    line-height: 1;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    {% if block.settings.image %}
+      background-image: url('{{ block.settings.image | image_url: width: 2000 }}');
+      background-size: {{ block.settings.image_size }};
+      background-position: {{ block.settings.image_position }};
+      background-repeat: no-repeat;
+    {% else %}
+      background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4);
+      background-size: 400% 400%;
+      animation: ai-gradient-shift-{{ ai_gen_id }} 3s ease infinite;
+    {% endif %}
+  }
+
+  .ai-image-text__placeholder-{{ ai_gen_id }} {
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    padding: 60px 20px;
+    position: relative;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .ai-image-text__placeholder-{{ ai_gen_id }} svg {
+    width: 80px;
+    height: 80px;
+    opacity: 0.3;
+    margin-bottom: 20px;
+  }
+
+  .ai-image-text__empty-state-{{ ai_gen_id }} {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 14px;
+    color: #666;
+    text-align: center;
+  }
+
+  @keyframes ai-gradient-shift-{{ ai_gen_id }} {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-image-text__heading-{{ ai_gen_id }} {
+      font-size: {{ block.settings.font_size | times: 0.7 }}px;
+    }
+
+    .ai-image-text-{{ ai_gen_id }} {
+      padding: {{ block.settings.padding | times: 0.5 }}px;
+    }
+  }
+{% endstyle %}
+
+<div class="ai-image-text-{{ ai_gen_id }}" {{ block.shopify_attributes }}>
+  {% if block.settings.text != blank %}
+    <div class="ai-image-text__content-{{ ai_gen_id }}">
+      <h1 class="ai-image-text__heading-{{ ai_gen_id }}">{{ block.settings.text }}</h1>
+    </div>
+  {% else %}
+    <div class="ai-image-text__placeholder-{{ ai_gen_id }}">
+      {{ 'image' | placeholder_svg_tag }}
+      <div class="ai-image-text__empty-state-{{ ai_gen_id }}">
+        Add text and an image to get started
+      </div>
+    </div>
+  {% endif %}
+</div>
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Image filled text",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Content"
+    },
+    {
+      "type": "text",
+      "id": "text",
+      "label": "Text",
+      "default": "BOLD TEXT"
+    },
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Fill image"
+    },
+    {
+      "type": "header",
+      "content": "Image settings"
+    },
+    {
+      "type": "select",
+      "id": "image_size",
+      "label": "Image size",
+      "options": [
+        {
+          "value": "cover",
+          "label": "Cover"
+        },
+        {
+          "value": "contain",
+          "label": "Contain"
+        },
+        {
+          "value": "100% 100%",
+          "label": "Stretch"
+        }
+      ],
+      "default": "cover"
+    },
+    {
+      "type": "select",
+      "id": "image_position",
+      "label": "Image position",
+      "options": [
+        {
+          "value": "center center",
+          "label": "Center"
+        },
+        {
+          "value": "top center",
+          "label": "Top"
+        },
+        {
+          "value": "bottom center",
+          "label": "Bottom"
+        },
+        {
+          "value": "center left",
+          "label": "Left"
+        },
+        {
+          "value": "center right",
+          "label": "Right"
+        }
+      ],
+      "default": "center center"
+    },
+    {
+      "type": "header",
+      "content": "Style"
+    },
+    {
+      "type": "range",
+      "id": "font_size",
+      "min": 40,
+      "max": 200,
+      "step": 10,
+      "unit": "px",
+      "label": "Font size",
+      "default": 120
+    },
+    {
+      "type": "select",
+      "id": "text_alignment",
+      "label": "Text alignment",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "default": "center"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "range",
+      "id": "padding",
+      "min": 20,
+      "max": 100,
+      "step": 10,
+      "unit": "px",
+      "label": "Padding",
+      "default": 60
+    }
+  ],
+  "presets": [
+    {
+      "name": "Image filled text"
+    }
+  ],
+  "tag": null
+}
 {% endschema %}
