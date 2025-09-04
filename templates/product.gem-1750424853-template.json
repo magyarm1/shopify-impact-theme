@@ -269,7 +269,7 @@
         "button_url": "",
         "text_position": "center",
         "background": "#000000",
-        "background_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 1), rgba(0, 0, 0, 1) 99%, rgba(48, 145, 211, 1) 99%)",
+        "background_gradient": "linear-gradient(117deg, rgba(212, 175, 55, 1), rgba(184, 134, 11, 1) 50%, rgba(0, 0, 0, 1) 80%)",
         "text_color": "#ffffff",
         "heading_color": "",
         "heading_gradient": "",
