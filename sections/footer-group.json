@@ -21,7 +21,7 @@
         "button_text": "GET EXCLUSIVE ACCESS",
         "subtext": "",
         "background": "#000000",
-        "background_gradient": "linear-gradient(16deg, rgba(212, 175, 55, 1), rgba(184, 134, 11, 1) 50%, rgba(0, 0, 0, 1) 59%)",
+        "background_gradient": "linear-gradient(189deg, rgba(212, 175, 55, 1), rgba(184, 134, 11, 1) 50%, rgba(0, 0, 0, 1) 59%)",
         "text_color": "#ffffff",
         "button_background": "#000000",
         "button_text_color": "#ffffff"

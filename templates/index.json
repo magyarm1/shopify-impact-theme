@@ -60,7 +60,7 @@
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
         "background": "#b8860b",
-        "background_gradient": "linear-gradient(148deg, rgba(212, 175, 55, 1), rgba(184, 134, 11, 1) 50%, rgba(0, 0, 0, 1) 64%)",
+        "background_gradient": "linear-gradient(0deg, rgba(212, 175, 55, 1), rgba(184, 134, 11, 1) 50%, rgba(0, 0, 0, 1) 67%)",
         "text_color": "#ffffff",
         "text_gradient": ""
       }
@@ -378,48 +378,6 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
-    },
-    "image_with_text_overlay_7kQKzz": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_866HEE": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_gjcT9m": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_PAyGeP": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_866HEE",
-        "heading_gjcT9m",
-        "richtext_PAyGeP"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/d6282aaa-4579-4012-b6bf-6cae21b38f0b.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
     }
   },
   "order": [
@@ -435,7 +393,6 @@
     "175128789890e61653",
     "1751631184f9b8c511",
     "1752166811bbe2c0bb",
-    "175216682409ff105e",
-    "image_with_text_overlay_7kQKzz"
+    "175216682409ff105e"
   ]
 }
