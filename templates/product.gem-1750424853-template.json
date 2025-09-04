@@ -133,34 +133,6 @@
     },
     "175406642558e7f282": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_card_carousel_section_K7wXbK": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-card-carousel-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "maxWidth": 1100,
-            "borderRadius": 8,
-            "itemsPerView": 4,
-            "mobileItemsPerView": 1,
-            "maxNumberOfCharacters": 100,
-            "imageRatio": "0.72",
-            "reviewerNameColor": "#000000",
-            "textColor": "#000000",
-            "itemBackgroundColor": "#ffffff",
-            "starsColor": "",
-            "starsBackgroundColor": "#ffffff",
-            "arrows_backgroundColor": "#ffffff",
-            "arrows_iconColor": "#9a9a9a",
-            "shadow": "offset-dark",
-            "border_active": false,
-            "border_width": 2,
-            "border_color": "#000000",
-            "productIds": ""
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_card_carousel_section_K7wXbK"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -174,11 +146,48 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "impact_text_EKen3b": {
+      "type": "impact-text",
+      "blocks": {
+        "item_FJPnb8": {
+          "type": "item",
+          "settings": {
+            "title": "+1000",
+            "subheading": "Join over +1000 users before they sell out AGAIN!",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 0.5
+          }
+        }
+      },
+      "block_order": [
+        "item_FJPnb8"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "related-products",
-    "175406642558e7f282"
+    "175406642558e7f282",
+    "impact_text_EKen3b"
   ]
 }
