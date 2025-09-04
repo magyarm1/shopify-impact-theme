@@ -721,7 +721,7 @@
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": "linear-gradient(to right, #d4af37, #b8860b, #000000)",
+        "heading_gradient": "linear-gradient(238deg, rgba(212, 175, 55, 1), rgba(184, 134, 11, 1) 59%, rgba(0, 0, 0, 1) 100%)",
         "button_background": "",
         "button_text_color": "",
         "accordion_background": "",
