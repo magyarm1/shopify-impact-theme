@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_XWQxVq": {
+          "type": "message",
+          "settings": {
+            "text": "Announce something here",
+            "url": ""
+          }
+        },
         "message_wy9mhU": {
           "type": "message",
           "settings": {
@@ -30,6 +37,7 @@
         }
       },
       "block_order": [
+        "message_XWQxVq",
         "message_wy9mhU",
         "message"
       ],
@@ -39,7 +47,7 @@
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#b8860b",
-        "background_gradient": "linear-gradient(343deg, rgba(212, 175, 55, 1), rgba(184, 134, 11, 1) 50%, rgba(0, 0, 0, 1) 100%)",
+        "background_gradient": "linear-gradient(343deg, rgba(212, 175, 55, 1), rgba(184, 134, 11, 1) 50%, rgba(0, 0, 0, 1) 65%)",
         "text_color": "#f2f2f2"
       }
     },
