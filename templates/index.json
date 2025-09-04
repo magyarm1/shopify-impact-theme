@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/3.png",
-            "mobile_image": "shopify://shop_images/2_909bd836-48db-4f16-81fd-f13549ff98d2.png",
+            "mobile_image": "shopify://shop_images/Black_and_Blue_Modern_Sale_Facebook_Cover_2000_x_1000_keppont_1200_x_1600_keppont_1900_x_1000_keppont_1200_x_1600_keppont.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -58,7 +58,7 @@
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 7,
+        "scrolling_speed": 10,
         "background": "#b8860b",
         "background_gradient": "linear-gradient(148deg, rgba(212, 175, 55, 1), rgba(184, 134, 11, 1) 50%, rgba(0, 0, 0, 1) 100%)",
         "text_color": "#ffffff",
