@@ -109,25 +109,102 @@
         "input_text_color": ""
       }
     },
-    "impact_text_EKen3b": {
-      "type": "impact-text",
+    "175406642558e7f282": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "scrolling_text_QyhDek": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Join over +1000 users before they sell out AGAIN!",
+        "text_size": "small",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "multi_column_7ci8nH": {
+      "type": "multi-column",
       "blocks": {
-        "item_FJPnb8": {
+        "item_tWpwVx": {
           "type": "item",
           "settings": {
-            "title": "+1000",
-            "subheading": "Join over +1000 users before they sell out AGAIN!",
+            "image": "shopify://shop_images/ezgif.com-crop.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
             "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 5
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yf7BTz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ezgif.com-cut.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TPDdMM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ezgif.com-crop_63af561a-2802-4b58-bf99-926be428cc82.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "item_FJPnb8"
+        "item_tWpwVx",
+        "item_yf7BTz",
+        "item_TPDdMM"
       ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "impact_text_EKen3b": {
+      "type": "impact-text",
       "name": "Impact text",
       "settings": {
         "full_width": true,
@@ -144,50 +221,13 @@
         "button_background": "",
         "button_text_color": ""
       }
-    },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "recommendations_count": 6,
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "You may also like",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
-    "175406642558e7f282": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
     }
   },
   "order": [
     "main",
-    "impact_text_EKen3b",
-    "related-products",
-    "175406642558e7f282"
+    "175406642558e7f282",
+    "scrolling_text_QyhDek",
+    "multi_column_7ci8nH",
+    "impact_text_EKen3b"
   ]
 }
