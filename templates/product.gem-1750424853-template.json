@@ -109,6 +109,42 @@
         "input_text_color": ""
       }
     },
+    "impact_text_EKen3b": {
+      "type": "impact-text",
+      "blocks": {
+        "item_FJPnb8": {
+          "type": "item",
+          "settings": {
+            "title": "+1000",
+            "subheading": "Join over +1000 users before they sell out AGAIN!",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 5
+          }
+        }
+      },
+      "block_order": [
+        "item_FJPnb8"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -146,48 +182,12 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
-    },
-    "impact_text_EKen3b": {
-      "type": "impact-text",
-      "blocks": {
-        "item_FJPnb8": {
-          "type": "item",
-          "settings": {
-            "title": "+1000",
-            "subheading": "Join over +1000 users before they sell out AGAIN!",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 0.5
-          }
-        }
-      },
-      "block_order": [
-        "item_FJPnb8"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
     }
   },
   "order": [
     "main",
+    "impact_text_EKen3b",
     "related-products",
-    "175406642558e7f282",
-    "impact_text_EKen3b"
+    "175406642558e7f282"
   ]
 }
