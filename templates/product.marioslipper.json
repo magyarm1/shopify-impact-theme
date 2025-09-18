@@ -123,6 +123,7 @@
     },
     "gp_section_569355997286499360": {
       "type": "gp-section-569355997286499360",
+      "disabled": true,
       "settings": {
         "section_preload": "false",
         "checksum": "4625237a648d2972c3d3dfc576b13bfac05f9a0a968fef62b8e205a39d241ea7_1_1_1_0_"
@@ -208,7 +209,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "vacpack™-vacuum-backpack",
+        "product": "shroom-slippers™",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -759,48 +760,6 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
-    },
-    "image_with_text_overlay_YPkY3e": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_t9zdb6": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_pWiXAk": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_YejQxA": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_t9zdb6",
-        "heading_pWiXAk",
-        "richtext_YejQxA"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/d6282aaa-4579-4012-b6bf-6cae21b38f0b.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
     }
   },
   "order": [
@@ -827,7 +786,6 @@
     "1751037237459a6951",
     "text_with_icons_F7WFrc",
     "faq_FkNNkq",
-    "17521644765f010547",
-    "image_with_text_overlay_YPkY3e"
+    "17521644765f010547"
   ]
 }
