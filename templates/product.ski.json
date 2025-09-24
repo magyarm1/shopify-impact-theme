@@ -224,6 +224,59 @@
         "input_text_color": ""
       }
     },
+    "faq_mQDfXT": {
+      "type": "faq",
+      "blocks": {
+        "item_rU74UF": {
+          "type": "item",
+          "settings": {
+            "title": "Is 1 piece a pair or a single item?",
+            "content": "<p>Each order of<strong>1 piece = 1 pair (2 protectors)</strong>. Perfect for both legs.</p>"
+          }
+        },
+        "item_KLek9y": {
+          "type": "item",
+          "settings": {
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 2-4 business days to arrive. Overseas deliveries can take anywhere from 7-12 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "item_nmL3HV": {
+          "type": "item",
+          "settings": {
+            "title": "Still have questions?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_rU74UF",
+        "item_KLek9y",
+        "item_nmL3HV"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "impact_text_BcCrLY": {
       "type": "impact-text",
       "name": "Impact text",
@@ -241,6 +294,41 @@
         "text_color": "#1a1a1a",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "media_with_text_zkppHL": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_eEPPyd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8702.jpg",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Protect Your Legs – Stay Stronger",
+            "content": "<p>Without protection, shin pain and bruises are inevitable.<br/><strong>AlpineGuard™</strong>absorbs impact and keeps your legs safe.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_eEPPyd"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
       }
     },
     "175096150094a9477b": {
@@ -403,46 +491,40 @@
         "review_button_text_color": "#ffffff"
       }
     },
-    "image_with_text_overlay_YPkY3e": {
-      "type": "image-with-text-overlay",
+    "impact_text_kKxbtd": {
+      "type": "impact-text",
       "blocks": {
-        "subheading_t9zdb6": {
-          "type": "subheading",
+        "item_ENpBCm": {
+          "type": "item",
           "settings": {
-            "text": ""
-          }
-        },
-        "heading_pWiXAk": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_YejQxA": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
+            "title": "100%",
+            "subheading": "Pain-Free Guarantee",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
           }
         }
       },
       "block_order": [
-        "subheading_t9zdb6",
-        "heading_pWiXAk",
-        "richtext_YejQxA"
+        "item_ENpBCm"
       ],
-      "name": "Image with text overlay",
+      "name": "Impact text",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/d6282aaa-4579-4012-b6bf-6cae21b38f0b.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "#f0c417",
+        "heading_gradient": "radial-gradient(rgba(26, 26, 26, 1), rgba(255, 204, 75, 1) 100%)",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     }
   },
@@ -455,13 +537,15 @@
     "gp_section_571645619102287072",
     "gp_section_569355997286499360",
     "featured_product_EEQeAR",
+    "faq_mQDfXT",
     "impact_text_BcCrLY",
+    "media_with_text_zkppHL",
     "175096150094a9477b",
     "1751037162c8ef5792",
     "17510371963fa7aad8",
     "1751037237459a6951",
     "text_with_icons_F7WFrc",
     "17521644765f010547",
-    "image_with_text_overlay_YPkY3e"
+    "impact_text_kKxbtd"
   ]
 }
