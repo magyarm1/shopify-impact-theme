@@ -561,6 +561,34 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "before_after_image_7QzMNx": {
+      "type": "before-after-image",
+      "custom_css": [
+        ".before-after {max-width: 400px; /* szélesség korlátozás */ margin: 0 auto; /* középre igazítás */ border-radius: 12px; /* opcionális: lekerekített sarkok */ overflow: hidden; /* hogy ne lógjon túl semmi */}"
+      ],
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "before_image": "shopify://shop_images/IMG_8767.jpg",
+        "after_image": "shopify://shop_images/IMG_8768.jpg",
+        "expand_image": true,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
     }
   },
   "order": [
@@ -582,6 +610,7 @@
     "1751037237459a6951",
     "media_with_text_TCQjc6",
     "text_with_icons_F7WFrc",
-    "17521644765f010547"
+    "17521644765f010547",
+    "before_after_image_7QzMNx"
   ]
 }
