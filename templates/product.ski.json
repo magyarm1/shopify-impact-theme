@@ -331,6 +331,42 @@
         "spacing": "small"
       }
     },
+    "impact_text_kKxbtd": {
+      "type": "impact-text",
+      "blocks": {
+        "item_ENpBCm": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Pain-Free Guarantee",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_ENpBCm"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "#f0c417",
+        "heading_gradient": "radial-gradient(rgba(26, 26, 26, 1), rgba(255, 204, 75, 1) 100%)",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "175096150094a9477b": {
       "type": "apps",
       "settings": {
@@ -396,6 +432,41 @@
         "review_header_text_color": "#000000",
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
+      }
+    },
+    "media_with_text_TCQjc6": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_Maw3i4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8701.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Maximum Protection on the Slopes",
+            "content": "<p><strong>Engineered for stability, comfort, and protection – so you can ski longer, stronger, and pain-free.</strong></p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Maw3i4"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
       }
     },
     "text_with_icons_F7WFrc": {
@@ -490,42 +561,6 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
-    },
-    "impact_text_kKxbtd": {
-      "type": "impact-text",
-      "blocks": {
-        "item_ENpBCm": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "Pain-Free Guarantee",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_ENpBCm"
-      ],
-      "name": "Impact text",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "#f0c417",
-        "heading_gradient": "radial-gradient(rgba(26, 26, 26, 1), rgba(255, 204, 75, 1) 100%)",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
     }
   },
   "order": [
@@ -540,12 +575,13 @@
     "faq_mQDfXT",
     "impact_text_BcCrLY",
     "media_with_text_zkppHL",
+    "impact_text_kKxbtd",
     "175096150094a9477b",
     "1751037162c8ef5792",
     "17510371963fa7aad8",
     "1751037237459a6951",
+    "media_with_text_TCQjc6",
     "text_with_icons_F7WFrc",
-    "17521644765f010547",
-    "impact_text_kKxbtd"
+    "17521644765f010547"
   ]
 }
