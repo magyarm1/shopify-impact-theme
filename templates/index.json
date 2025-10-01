@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Dark_Gold_Glitter_Luxury_Black_Friday_Instagram_Post_1900_x_1000_keppont_1200_x_1600_keppont_1900_x_1000_keppont.png",
+            "image": "shopify://shop_images/Dark_Gold_Glitter_Luxury_Black_Friday_Instagram_Post_1900_x_1000_keppont_1200_x_1600_keppont_1900_x_1000_keppont_1200_x_1600_keppont_1900_x_700_keppont_1900_x_900_keppont.jpg",
             "mobile_image": "shopify://shop_images/Dark_Gold_Glitter_Luxury_Black_Friday_Instagram_Post_1900_x_1000_keppont_1200_x_1600_keppont_1900_x_1000_keppont_1200_x_1600_keppont.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
@@ -59,8 +59,8 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
-        "background": "#0d0d0d",
-        "background_gradient": "linear-gradient(210deg, rgba(13, 13, 13, 1) 35%, rgba(13, 13, 13, 1) 36.691%, rgba(236, 207, 113, 1) 88%, rgba(236, 228, 119, 1) 97%)",
+        "background": "#1a191b",
+        "background_gradient": "",
         "text_color": "#ffffff",
         "text_gradient": ""
       }
