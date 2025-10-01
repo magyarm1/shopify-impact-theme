@@ -42,13 +42,13 @@
         "links"
       ],
       "custom_css": [
-        "/* Footer + newsletter */.footer, .site-footer, .newsletter, .newsletter-section {background:#1A191B!important; color:#fff!important;}",
-        ".newsletter input {background:#000!important; color:#fff!important; border:1px solid #444!important;}",
-        ".newsletter button {background:#000!important; color:#fff!important;}"
+        "/* Footer + newsletter */.footer,.site-footer,.newsletter,.newsletter-section {background: #1a191b !important; color: #fff !important;}",
+        ".newsletter input {background: #000 !important; color: #fff !important; border: 1px solid #444 !important;}",
+        ".newsletter button {background: #000 !important; color: #fff !important;}"
       ],
       "settings": {
         "show_social_media": true,
-        "show_payment_icons": false,
+        "show_payment_icons": true,
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": true,
