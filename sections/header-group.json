@@ -47,7 +47,7 @@
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#000000",
-        "background_gradient": "linear-gradient(350deg, rgba(236, 207, 113, 1), rgba(0, 0, 0, 1) 76%, rgba(0, 0, 0, 1) 85%, rgba(0, 0, 0, 1) 93%)",
+        "background_gradient": "linear-gradient(350deg, rgba(236, 207, 113, 1), rgba(0, 0, 0, 1) 58%, rgba(0, 0, 0, 1) 85%, rgba(0, 0, 0, 1) 99%)",
         "text_color": "#f2f2f2"
       }
     },
