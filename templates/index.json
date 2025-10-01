@@ -59,8 +59,8 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
-        "background": "#eccf71",
-        "background_gradient": "linear-gradient(15deg, rgba(13, 13, 13, 1), rgba(236, 207, 113, 1) 4%, rgba(0, 0, 0, 1) 85%)",
+        "background": "#0d0d0d",
+        "background_gradient": "",
         "text_color": "#ffffff",
         "text_gradient": ""
       }
