@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/3.png",
-            "mobile_image": "shopify://shop_images/Black_and_Blue_Modern_Sale_Facebook_Cover_2000_x_1000_keppont_1200_x_1600_keppont_1900_x_1000_keppont_1200_x_1600_keppont.png",
+            "image": "shopify://shop_images/Dark_Gold_Glitter_Luxury_Black_Friday_Instagram_Post_1900_x_1000_keppont.png",
+            "mobile_image": "shopify://shop_images/Dark_Gold_Glitter_Luxury_Black_Friday_Instagram_Post.png",
             "content_max_width": 1200,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
