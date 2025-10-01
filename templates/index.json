@@ -60,7 +60,7 @@
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
         "background": "#eccf71",
-        "background_gradient": "linear-gradient(63deg, rgba(13, 13, 13, 1), rgba(236, 207, 113, 1) 4%, rgba(0, 0, 0, 1) 49%)",
+        "background_gradient": "linear-gradient(15deg, rgba(13, 13, 13, 1), rgba(236, 207, 113, 1) 4%, rgba(0, 0, 0, 1) 85%)",
         "text_color": "#ffffff",
         "text_gradient": ""
       }
