@@ -20,8 +20,8 @@
         "content": "<p>What does membership mean? We send exclusive deals and discounts to our members.<br/>You'll also get to see our new products before anyone else.</p>",
         "button_text": "GET EXCLUSIVE ACCESS",
         "subtext": "",
-        "background": "#000000",
-        "background_gradient": "linear-gradient(186deg, rgba(236, 206, 113, 1), rgba(236, 206, 113, 1) 27%, rgba(0, 0, 0, 1) 64%)",
+        "background": "#1a191b",
+        "background_gradient": "",
         "text_color": "#ffffff",
         "button_background": "#000000",
         "button_text_color": "#ffffff"
