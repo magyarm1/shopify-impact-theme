@@ -125,7 +125,7 @@
         "background": "#ffffff",
         "background_gradient": "",
         "heading_text_color": "#1a1a1a",
-        "heading_gradient": "linear-gradient(180deg, rgba(212, 175, 55, 1), rgba(184, 134, 11, 1) 50%, rgba(0, 0, 0, 1) 100%)",
+        "heading_gradient": "linear-gradient(338deg, rgba(236, 206, 113, 1), rgba(0, 0, 0, 1) 40%, rgba(236, 206, 113, 1) 47%, rgba(0, 0, 0, 1) 72.662%, rgba(236, 227, 119, 1) 99%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
