@@ -452,14 +452,14 @@
         "item_ehQexr"
       ],
       "custom_css": [
-        ".multicolumn__title,h2 {text-align: center; font-size: 32px; display: flex; justify-content: center; align-items: center;}"
+        ".multicolumn .title-wrapper-with-link,.multicolumn .title-wrapper,.multicolumn__title,.multicolumn h2 {text-align: center !important; justify-content: center !important; align-items: center !important; margin: 0 auto !important; display: block !important;}"
       ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "subheading": "",
         "title": "Join over +1000 users",
         "content": "<p>.</p>",
