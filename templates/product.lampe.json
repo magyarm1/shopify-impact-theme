@@ -224,151 +224,8 @@
         "input_text_color": ""
       }
     },
-    "images_with_text_scrolling_x9Y7PV": {
-      "type": "images-with-text-scrolling",
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "media_with_text_6JU3Lf": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_bgq8Rz": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Compression_Technology_Odor-Free_Compartment.png",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "VacPack™ Vacuum Compression System",
-            "content": "<p>The VacPack™ is equipped with a built-in vacuum compression system that allows you to maximize your packing space by reducing the volume of clothes and other items. From now on, you won’t have to worry about overpacking or fitting in that extra jacket!</p>",
-            "link_text": "",
-            "link_url": "shopify://products/vacpack™-vacuum-backpack",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#000000",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_bgq8Rz"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "spacing": "none"
-      }
-    },
-    "rich_text_mhjCa8": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_73GzCB": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_e9iNex": {
-          "type": "heading",
-          "settings": {
-            "text": "Smart Organization",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_yDCHmW": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>Need to pack a lot?</strong>Vackpack’s pockets and compartments keep everything organized  and it's expandable too, giving you extra space for souvenirs or last-minute items. A practical and tidy solution for life on the go!</p><p></p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_73GzCB",
-        "heading_e9iNex",
-        "richtext_yDCHmW"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#1a1a1a",
-        "background_gradient": "",
-        "text_color": "#ffffff"
-      }
-    },
-    "media_with_text_k936di": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_GpXPb4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Nevtelen_terv-6_masolat.png",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Designed for Comfort",
-            "content": "<p><strong>Soft shoulder straps and an ergonomic, padded back ensure maximum comfort throughout your journey.</strong></p>",
-            "link_text": "",
-            "link_url": "shopify://products/zencampro",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_GpXPb4"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
-      }
-    },
     "impact_text_BcCrLY": {
       "type": "impact-text",
-      "blocks": {
-        "item_WaKfJW": {
-          "type": "item",
-          "settings": {
-            "title": "5.000+",
-            "subheading": "Happy Customers Worldwide",
-            "content": "<p>Over 5,000 satisfied customers use ZENCAMPRO™<br/>to capture action-packed moments / in HD, hands-free, and without limits.    </p><p><strong>Risk-Free: 14-Day Money-Back Guarantee:</strong></p><p>Try it. Test it. Love it — or get your money back. Simple.</p>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_WaKfJW"
-      ],
       "name": "Impact text",
       "settings": {
         "full_width": true,
@@ -386,41 +243,6 @@
         "button_text_color": ""
       }
     },
-    "media_with_text_a7ihNd": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_MCxAED": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/12_png.webp",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Travel Safely.",
-            "content": "<p>Secure your valuables with a TSA lock that provides extra protection and ensures smooth, hassle-free travel.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_MCxAED"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
-      }
-    },
     "175096150094a9477b": {
       "type": "apps",
       "settings": {
@@ -435,124 +257,6 @@
         "review_header_text_color": "#000000",
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
-      }
-    },
-    "multiple_images_with_text_aAUAkz": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_HEBgTq": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Nevtelen_terv_-_2025-03-31T123926_159_png.webp",
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Water Resistant Material",
-            "content": "<p>Rain, sun or snow. Protect your gear in any condition.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_HEBgTq"
-      ],
-      "name": "Multiple images with text",
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "top",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "media_with_text_kExG8x": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_hV4Qt8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/f6baf068-304a-4985-be26-e3614edc3150.png",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Specifications",
-            "content": "<p><strong>Capacity</strong>: 20–32 liters (with compression)</p><p><strong>Dimensions</strong>: 49 × 32 × 15 cm</p><p><strong>Weight</strong>: 1.2 kg</p><p><strong>Materials</strong>:<br/>– Main fabric: Water-resistant PU<br/>– Lining: 210D polyester</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_hV4Qt8"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
-      }
-    },
-    "press_6BxJLV": {
-      "type": "press",
-      "blocks": {
-        "quote_BXtGpg": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "Jake R.",
-            "content": "This is not just a backpack, it's an upgrade to how you pack. The compartments are well-designed, it sits comfortably even when full, and the compression system is brilliant. Got compliments at the airport too. Love it.",
-            "show_rating": true,
-            "rating": 5
-          }
-        },
-        "quote_GwMXVA": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "Emily S.",
-            "content": "The material feels super premium and durable. I’ve used it in light rain and snow, everything stayed dry. The vacuum compartments are smart and really compress the clothes. I even had extra space left after packing. One of the best travel bags I’ve owned.",
-            "show_rating": true,
-            "rating": 5
-          }
-        },
-        "quote_LcJWqn": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "Daniel K.",
-            "content": "I travel a lot for work and honestly this bag is a game changer. The vacuum function saved me so much space I managed to pack everything for a 5-day trip into just this backpack. Feels strong, looks modern, and the included air pump is a huge bonus. Totally worth the price.",
-            "show_rating": true,
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "quote_BXtGpg",
-        "quote_GwMXVA",
-        "quote_LcJWqn"
-      ],
-      "name": "Press",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
       }
     },
     "1751037162c8ef5792": {
@@ -667,67 +371,6 @@
         "text_color": ""
       }
     },
-    "faq_FkNNkq": {
-      "type": "faq",
-      "blocks": {
-        "item_zLnt7z": {
-          "type": "item",
-          "settings": {
-            "title": "What are the dimensions of the backpack?",
-            "content": "<p><strong>VACPAC backpacks expand to dimensions of 49 x 32 x 15–20 cm when fully packed.</strong></p>"
-          }
-        },
-        "item_rxk4XU": {
-          "type": "item",
-          "settings": {
-            "title": "How does the vacuum system work?",
-            "content": "<p><strong>The built-in vacuum system reduces packing volume.</strong></p><ol><li>Pack your clothes or gear into the backpack.</li><li>Seal it securely.</li><li>Use the VACPAC pump to compress and vacuum-seal the contents — maximizing space-saving and convenience.</li></ol>"
-          }
-        },
-        "item_dgqKV6": {
-          "type": "item",
-          "settings": {
-            "title": "How much weight can the VACPACK hold?",
-            "content": "<p><strong>The VACPACK can hold up to 40 kg.</strong>.</p>"
-          }
-        },
-        "item_rnd3AY": {
-          "type": "item",
-          "settings": {
-            "title": "What size laptop can I fit in the PACK?",
-            "content": "<p>The VACPAC can hold a laptop up to 43 cm long.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_zLnt7z",
-        "item_rxk4XU",
-        "item_dgqKV6",
-        "item_rnd3AY"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "linear-gradient(238deg, rgba(212, 175, 55, 1), rgba(184, 134, 11, 1) 59%, rgba(0, 0, 0, 1) 100%)",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
     "17521644765f010547": {
       "type": "apps",
       "blocks": {
@@ -770,21 +413,12 @@
     "gp_section_571645619102287072",
     "gp_section_569355997286499360",
     "featured_product_EEQeAR",
-    "images_with_text_scrolling_x9Y7PV",
-    "media_with_text_6JU3Lf",
-    "rich_text_mhjCa8",
-    "media_with_text_k936di",
     "impact_text_BcCrLY",
-    "media_with_text_a7ihNd",
     "175096150094a9477b",
-    "multiple_images_with_text_aAUAkz",
-    "media_with_text_kExG8x",
-    "press_6BxJLV",
     "1751037162c8ef5792",
     "17510371963fa7aad8",
     "1751037237459a6951",
     "text_with_icons_F7WFrc",
-    "faq_FkNNkq",
     "17521644765f010547"
   ]
 }
