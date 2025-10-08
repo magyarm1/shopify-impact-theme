@@ -243,6 +243,71 @@
         "button_text_color": ""
       }
     },
+    "multi_column_WYthJq": {
+      "type": "multi-column",
+      "blocks": {
+        "item_kFQMC4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8200.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YEFrhh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8201.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ehQexr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8202.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_kFQMC4",
+        "item_YEFrhh",
+        "item_ehQexr"
+      ],
+      "custom_css": [
+        ".multicolumn .title-wrapper-with-link,.multicolumn .title-wrapper,.multicolumn__title,.multicolumn h2 {text-align: center !important; justify-content: center !important; align-items: center !important; margin: 0 auto !important; display: block !important;}"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Join over +1000 users",
+        "content": "<p>.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "175096150094a9477b": {
       "type": "apps",
       "settings": {
@@ -402,71 +467,6 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
-    },
-    "multi_column_WYthJq": {
-      "type": "multi-column",
-      "blocks": {
-        "item_kFQMC4": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_8200.gif",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_YEFrhh": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_8201.gif",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_ehQexr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG_8202.gif",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_kFQMC4",
-        "item_YEFrhh",
-        "item_ehQexr"
-      ],
-      "custom_css": [
-        ".multicolumn .title-wrapper-with-link,.multicolumn .title-wrapper,.multicolumn__title,.multicolumn h2 {text-align: center !important; justify-content: center !important; align-items: center !important; margin: 0 auto !important; display: block !important;}"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Join over +1000 users",
-        "content": "<p>.</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
@@ -479,12 +479,12 @@
     "gp_section_569355997286499360",
     "featured_product_EEQeAR",
     "impact_text_BcCrLY",
+    "multi_column_WYthJq",
     "175096150094a9477b",
     "1751037162c8ef5792",
     "17510371963fa7aad8",
     "1751037237459a6951",
     "text_with_icons_F7WFrc",
-    "17521644765f010547",
-    "multi_column_WYthJq"
+    "17521644765f010547"
   ]
 }
