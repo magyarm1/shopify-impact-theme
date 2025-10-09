@@ -507,6 +507,59 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "faq_eYdMWt": {
+      "type": "faq",
+      "blocks": {
+        "item_EFPWBF": {
+          "type": "item",
+          "settings": {
+            "title": "How long does the battery last?",
+            "content": "<p>A full charge lasts<strong>several nights</strong>of regular use. When it needs power, simply plug it into any USB port — no batteries required.</p>"
+          }
+        },
+        "item_GT98Bk": {
+          "type": "item",
+          "settings": {
+            "title": "What’s included in the package?",
+            "content": "<p>You get the MineLantern Torch, a metal chain, wall mount base, USB charging cable, 2 secure wall adhesives, and a remote control with 16 colors — everything you need to start using it right away.</p>"
+          }
+        },
+        "item_i7bmyQ": {
+          "type": "item",
+          "settings": {
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_EFPWBF",
+        "item_GT98Bk",
+        "item_i7bmyQ"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -526,6 +579,7 @@
     "1751037237459a6951",
     "text_with_icons_F7WFrc",
     "17521644765f010547",
-    "rich_text_6zjW49"
+    "rich_text_6zjW49",
+    "faq_eYdMWt"
   ]
 }
