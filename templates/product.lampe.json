@@ -361,6 +361,41 @@
         "accordion_text_color": ""
       }
     },
+    "media_with_text_nPEdLR": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_C8PiXw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8202.gif",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Relive the Magic of Minecraft  , in Real Life",
+            "content": "<p>Light up your room with 16 pixel-perfect colors. One lamp, endless nostalgia.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a191b",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_C8PiXw"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
     "175096150094a9477b": {
       "type": "apps",
       "settings": {
@@ -521,23 +556,23 @@
         "review_button_text_color": "#ffffff"
       }
     },
-    "media_with_text_nPEdLR": {
+    "media_with_text_QeC4kB": {
       "type": "media-with-text",
       "blocks": {
-        "image_C8PiXw": {
+        "image_VAJfEX": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_8202.gif",
+            "image": "shopify://shop_images/IMG_8200.gif",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Relive the Magic of Minecraft  , in Real Life",
-            "content": "<p>Light up your room with 16 pixel-perfect colors. One lamp, endless nostalgia.</p>",
+            "title": "Build. Battle. Glow!",
+            "content": "<p>The Minecraft vibe now lives in your room — just charge it up and let it shine through the night.</p>",
             "link_text": "",
-            "link_url": "",
+            "link_url": "shopify://products/pixelglow™-lantern-1",
             "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#1a191b",
@@ -548,7 +583,7 @@
         }
       },
       "block_order": [
-        "image_C8PiXw"
+        "image_VAJfEX"
       ],
       "name": "Media with text",
       "settings": {
@@ -569,12 +604,13 @@
     "impact_text_BcCrLY",
     "multi_column_WYthJq",
     "faq_eYdMWt",
+    "media_with_text_nPEdLR",
     "175096150094a9477b",
     "1751037162c8ef5792",
     "17510371963fa7aad8",
     "1751037237459a6951",
     "text_with_icons_F7WFrc",
     "17521644765f010547",
-    "media_with_text_nPEdLR"
+    "media_with_text_QeC4kB"
   ]
 }
