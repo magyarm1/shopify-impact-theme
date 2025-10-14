@@ -358,7 +358,7 @@
         "item_hJPDR8": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/ssstik.io_1760461257502-ezgif.com-video-to-gif-converter.mov",
+            "video": "shopify://files/videos/ssstik.io_1760463458149.mp4",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -371,6 +371,7 @@
         "item_EpJEVM": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/ssstik.io_1760461257502-ezgif.com-video-to-gif-converter.mov",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -383,6 +384,7 @@
         "item_LeF7zt": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/ssstik.io_1760460858427.mov",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
