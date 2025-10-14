@@ -1,0 +1,833 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_569357323709973525": {
+      "type": "gp-section-569357323709973525",
+      "disabled": true,
+      "settings": {
+        "section_preload": "true",
+        "checksum": "69adb5e7b81e69962f2bb24c07e9666471257e5a1de1bb72572095436a0953e3_1_1_1_0_",
+        "ggp-XM347rB_customContent_suffix": "Reducere",
+        "gi2la6131b4e21_viewMoreText": "Show more",
+        "gi2la6131b4e21_viewLessText": "Show less",
+        "ggG9XXOhWR7_childItem_0": "<p>Piele ca mătasea în 7 zile!</p>",
+        "ggG9XXOhWR7_childItem_1": "<p>O singură investiție, multiple beneficii!</p>",
+        "ggG9XXOhWR7_childItem_2": "<p>Stop iritațiilor!</p>",
+        "ggG9XXOhWR7_childItem_3": "<p>Montaj fulger: 90 de secunde!</p>",
+        "ggSISjIot6c_text": "<p>Cu 19 nutrienți (vitamina E, colagen) care hidratează profund.</p>",
+        "gg9c77_rVFO_text": "<p>Nu mai irosi banii pe pagubele cauzate de apa dură și clor! Aquafiltr Pro nu doar că îți oferă o piele catifelată și un păr strălucitor, ci este și o investiție inteligentă.</p>",
+        "ggVWoOvqK4Y_text": "<p>Protejează împotriva roșeții și a descuamării..</p>",
+        "ggYibWuVY0S_text": "<p>Fără unelte, doar înșurubezi.</p>",
+        "gg7sdIawSnA_childItem_0": "<p>Încearcă 30 de zile</p>",
+        "ggtGZf8Bp6u_childItem_0": "<p>Banii înapoi dacă nu ești mulțumit</p>",
+        "ggN_Npo_yb7_childItem_0": "<p>Banii înapoi dacă nu ești mulțumit</p>",
+        "ggHDuVJBraZ_childItem_0": "<p>Încearcă 30 de zile</p>",
+        "ggviZnYlt9o_text": "<span style=\"background-color:rgba(255,255,255,0);color:rgb(0,0,0);font-size:24px;\">Apa de la robinet nefiltrată dovedit că provoacă</span>",
+        "ggWCG-AjTdg_text": "<span style=\"font-size:20px;\">Păr deteriorat, fragil</span>",
+        "ggsc36oLmTa_text": "<p>Acumularea de metale grele și minerale dure face ca părul tău să se rupă ușor</p>",
+        "ggFSa4CakjO_text": "<span style=\"font-size:20px;\">Rărirea părului</span>",
+        "gg7wCbtqb_z_text": "<p>Părul uscat și fragil din cauza apei dure este predispus la rupere și subțiere.</p>",
+        "gg-x6jAfiaZ_text": "<span style=\"font-size:20px;\">Erupții cutanate și imperfecțiuni</span>",
+        "ggcmcNE8B6b_text": "<p>Substanțele chimice și apa dură provoacă erupții cutanate și declanșează acneea.</p>",
+        "ggdfPWqd4dB_text": "<span style=\"font-size:20px;\">Piele iritată, uscată</span>",
+        "ggtUw0XXVbq_text": "<p>Apa impură îți agravează pielea, lăsând pete uscate, mâncărime și durere.</p>"
+      }
+    },
+    "gp_section_569355942743770092": {
+      "type": "gp-section-569355942743770092",
+      "disabled": true,
+      "settings": {
+        "section_preload": "false",
+        "checksum": "eb17882cd0b5e3d715370bd09b4b5d4393a9929497e907f19937da967d59c6c2_1_1_1_0_",
+        "gaiPIZKUxNpwG_text": "Toate aceste rezultate,<br>doar din apă curată.",
+        "gBAMuyHvxcWBD_text": "<p>Când elimini toate substanțele nocive, corpul tău înflorește.</p>",
+        "ggCk5w2rFj7_text": "<p><span style=\"color:#606060;\">01</span> – Fără păr fragil</p>",
+        "ggaD-Pgv30A_text": "<p><span style=\"color:#606060;\">02</span> – Piele sănătoasă și hidratată</p>",
+        "gg5-S7KEpBs_text": "<p><span style=\"color:#606060;\">03</span><span style=\"color:#A0A0A0;\"> </span>– Păr mai des și mai strălucitor</p>",
+        "ggF-ZTISVph_text": "<p><span style=\"color:#606060;\">04 </span>– Mai puține coșuri și imperfecțiuni</p>"
+      }
+    },
+    "gp_section_569355920094528544": {
+      "type": "gp-section-569355920094528544",
+      "disabled": true,
+      "settings": {
+        "section_preload": "false",
+        "checksum": "5fdb6fe2645d12449879184872044b2ac1667ca6e0b75ce3afb8b4299c595d81_1_1_1_0_",
+        "gghpbgPmADn_text": "<p>Andra, Brașov</p>",
+        "ggYkFEFwiF__text": "<p>\"Mă simt mult mai fresh după duș. Părul meu este foarte sensibil la clor, iar Aquafiltr îl face să se simtă mai puțin uscat și fragil.\"</p>",
+        "gDidangwIOugo_text": "<p><span style=\"font-size:14px;\">Elena, Iași</span></p>",
+        "ghjCptgSDWfwW_text": "<p>\"Roșeața și imperfecțiunile au DISPĂRUT. Nu-mi vine să cred, nu am mai avut o piele atât de fină și curată din gimnaziu!\"</p>",
+        "ggBD_bIZHDc_text": "<p>Corina, Ploiești</p>",
+        "ggOnL3SomK__text": "<p>\"Culoarea părului meu rezistă mai mult și tenul are un glow natural. Aquafiltr e secretul meu pentru frumusețe!\"</p>",
+        "gggK-ijgP2E_text": "<p>Bianca, Galați</p>",
+        "ggRzBbmY09p_text": "<p>\"Pielea mea sensibilă nu se mai irită! Cu Aquafiltr, e ca un duș cu apă de izvor – fără roșeață, doar confort. Îl recomand!\"</p>",
+        "gHtXajoInDSiG_text": "<p>Denisa, Oradea</p>",
+        "gqKmmaVdFnBmI_text": "<p>\"Nu mai cheltuiesc atât de mult pe loțiuni! Pielea mea e hidratată natural, datorită acestui filtru.\"</p>",
+        "gQaxTwEnKRDcw_text": "<p><span style=\"font-size:14px;\">Maria, Cluj</span></p>",
+        "gwBncpjHItXrS_text": "<p>\"<i>Nu credeam că o să facă diferența, dar după o lună, pielea mea e mai netedă decât a fost vreodată! Nici măcar nu mai folosesc cremă hidratantă.</i>\"</p>"
+      }
+    },
+    "gp_section_571656263440532295": {
+      "type": "gp-section-571656263440532295",
+      "disabled": true,
+      "settings": {
+        "section_preload": "false",
+        "checksum": "f2d32a4b631c14ef66422db909df484dad9cb547e3a3cb33d9290dbad798a6d8_1_1_1_0_",
+        "gSEFlnsRxLoDA_text": "Vezi rezultatele fără riscuri.",
+        "gapdEOCGpgmRi_text": "<p>Încearcă filtrul nostru avansat de apă și experimentează beneficiile cu garanția noastră de 30 de zile. Bucură-te de apă mai curată și mai sigură, fără riscuri.</p>",
+        "ggHCEF6q2mn_childItem_0": "<p>Încearcă 30 de zile.</p>",
+        "ggHCEF6q2mn_childItem_1": "<p>Banii înapoi dacă nu ești mulțumit.</p>"
+      }
+    },
+    "gp_section_571652763964932935": {
+      "type": "gp-section-571652763964932935",
+      "disabled": true,
+      "settings": {
+        "section_preload": "false",
+        "checksum": "ade336d0f9850c6aeb4d2cd607e361b4c173c41fb7966053f1e387bd02843545_1_1_1_0_",
+        "ggmjkqqGpr6_text": "Cum se montează ?",
+        "ggZH7x9wl6y_text": "<p>Aquafiltr se montează între capul de duș și perete, ceea ce îl face compatibil cu orice baie și orice tip de duș.</p>",
+        "ggeYPtX_j-v_text": "Am nevoie de instalator?",
+        "ggXoePKD7Fr_text": "<p><strong>Nu. </strong>Aquafiltr<strong> </strong>se instalează ușor, în doar câțiva pași simpli, fără unelte speciale.<br><strong>Pur și simplu îl înșurubezi și e gata.</strong></p>"
+      }
+    },
+    "gp_section_571645619102287072": {
+      "type": "gp-section-571645619102287072",
+      "disabled": true,
+      "settings": {
+        "section_preload": "false",
+        "checksum": "057b78596810fd5fa5b44d75e2d6c5c9e040cfa464931916226a1c9d7599344e_1_1_1_0_",
+        "gBnbIiAiTqywj_text": "Scapă de <br>încrețire cu filtrul",
+        "gfAOYqjfXHVYk_text": "<p>Apa dură afectează <strong>96% dintre gospodării din România.</strong> Calcarul deteriorează pielea, părul și reduce durata de <strong>viață a aparatelor cu până la 68%.</strong></p><p><br><span style=\"background-color:rgba(244,244,244,0);color:#E0E0E0;\">(Sursa: Institutul Național de Statistică, 2024)</span></p>",
+        "gg0tjmcpOu-_childItem_0": "<p>Apa dură</p>",
+        "gg0tjmcpOu-_childItem_1": "<p>Clor</p>",
+        "ggRemVUSr8M_text": "Apa dură înseamnă depuneri, aparate defecte și gust neplăcut. Filtrarea calcarului prelungește viața electrocasnicelor și îmbunătățește gustul apei.",
+        "gg1FUa7rj0L_text": "94,7%",
+        "ggVyJCM4zlm_text": "<p>Elimină până la <strong>99% din clor și cloramina</strong>, precum și metale grele, microplastice și alte impurități, pentru o apă de duș curată.</p>",
+        "gg47OxGaliT_text": "99.2%",
+        "gKlUcBsggzBbF_text": "Elimină particule <br>invizibile, de până la",
+        "gMpNQyjBmUehO_text": "0.001<span style=\"font-size:16px;\">mm</span>",
+        "grEWpXppgUYbV_text": "<p>de 100x mai mici decât firul de păr!</p>",
+        "ggmjJ10QdSU_text": "Mai eficient decât <br>apa clorată",
+        "gg6M1EhK2Et_text": "94%",
+        "ggQ9QGs725B_text": "<p>din coloniile bacteriene</p>"
+      }
+    },
+    "gp_section_569355997286499360": {
+      "type": "gp-section-569355997286499360",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "4625237a648d2972c3d3dfc576b13bfac05f9a0a968fef62b8e205a39d241ea7_1_1_1_0_"
+      }
+    },
+    "featured_product_EEQeAR": {
+      "type": "featured-product",
+      "blocks": {
+        "title_GMMN4p": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_xBeg8V": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_VEDLVM": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_jV3h7r": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_DqraUD": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_4hcrzd": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_67Kj7K": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_pnTPPe": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_ntP3CC": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_ArygCG": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_GMMN4p",
+        "badges_xBeg8V",
+        "price_VEDLVM",
+        "rating_jV3h7r",
+        "separator_DqraUD",
+        "description_4hcrzd",
+        "variant_picker_67Kj7K",
+        "quantity_selector_pnTPPe",
+        "buy_buttons_ntP3CC",
+        "pickup_availability_ArygCG"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "vacpack™-vacuum-backpack",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "images_with_text_scrolling_x9Y7PV": {
+      "type": "images-with-text-scrolling",
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "media_with_text_6JU3Lf": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_bgq8Rz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Compression_Technology_Odor-Free_Compartment.png",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "VacPack™ Vacuum Compression System",
+            "content": "<p>The VacPack™ is equipped with a built-in vacuum compression system that allows you to maximize your packing space by reducing the volume of clothes and other items. From now on, you won’t have to worry about overpacking or fitting in that extra jacket!</p>",
+            "link_text": "",
+            "link_url": "shopify://products/vacpack™-vacuum-backpack",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#000000",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_bgq8Rz"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "none"
+      }
+    },
+    "rich_text_mhjCa8": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_73GzCB": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_e9iNex": {
+          "type": "heading",
+          "settings": {
+            "text": "Smart Organization",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_yDCHmW": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Need to pack a lot?</strong>Vackpack’s pockets and compartments keep everything organized  and it's expandable too, giving you extra space for souvenirs or last-minute items. A practical and tidy solution for life on the go!</p><p></p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_73GzCB",
+        "heading_e9iNex",
+        "richtext_yDCHmW"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "media_with_text_k936di": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_GpXPb4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Nevtelen_terv-6_masolat.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Designed for Comfort",
+            "content": "<p><strong>Soft shoulder straps and an ergonomic, padded back ensure maximum comfort throughout your journey.</strong></p>",
+            "link_text": "",
+            "link_url": "shopify://products/zencampro",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_GpXPb4"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "impact_text_BcCrLY": {
+      "type": "impact-text",
+      "blocks": {
+        "item_WaKfJW": {
+          "type": "item",
+          "settings": {
+            "title": "5.000+",
+            "subheading": "Happy Customers Worldwide",
+            "content": "<p>Over 5,000 satisfied customers use ZENCAMPRO™<br/>to capture action-packed moments / in HD, hands-free, and without limits.    </p><p><strong>Risk-Free: 14-Day Money-Back Guarantee:</strong></p><p>Try it. Test it. Love it — or get your money back. Simple.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_WaKfJW"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "linear-gradient(180deg, rgba(212, 175, 55, 1), rgba(184, 134, 11, 1) 50%, rgba(0, 0, 0, 1) 100%)",
+        "text_color": "#1a1a1a",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "media_with_text_a7ihNd": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_MCxAED": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/12_png.webp",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Travel Safely.",
+            "content": "<p>Secure your valuables with a TSA lock that provides extra protection and ensures smooth, hassle-free travel.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_MCxAED"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "175096150094a9477b": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "multiple_images_with_text_aAUAkz": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_HEBgTq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Nevtelen_terv_-_2025-03-31T123926_159_png.webp",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Water Resistant Material",
+            "content": "<p>Rain, sun or snow. Protect your gear in any condition.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_HEBgTq"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "top",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "media_with_text_kExG8x": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_hV4Qt8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/f6baf068-304a-4985-be26-e3614edc3150.png",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Specifications",
+            "content": "<p><strong>Capacity</strong>: 20–32 liters (with compression)</p><p><strong>Dimensions</strong>: 49 × 32 × 15 cm</p><p><strong>Weight</strong>: 1.2 kg</p><p><strong>Materials</strong>:<br/>– Main fabric: Water-resistant PU<br/>– Lining: 210D polyester</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_hV4Qt8"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "press_6BxJLV": {
+      "type": "press",
+      "blocks": {
+        "quote_BXtGpg": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Jake R.",
+            "content": "This is not just a backpack, it's an upgrade to how you pack. The compartments are well-designed, it sits comfortably even when full, and the compression system is brilliant. Got compliments at the airport too. Love it.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_GwMXVA": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Emily S.",
+            "content": "The material feels super premium and durable. I’ve used it in light rain and snow, everything stayed dry. The vacuum compartments are smart and really compress the clothes. I even had extra space left after packing. One of the best travel bags I’ve owned.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_LcJWqn": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Daniel K.",
+            "content": "I travel a lot for work and honestly this bag is a game changer. The vacuum function saved me so much space I managed to pack everything for a 5-day trip into just this backpack. Feels strong, looks modern, and the included air pump is a huge bonus. Totally worth the price.",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_BXtGpg",
+        "quote_GwMXVA",
+        "quote_LcJWqn"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "1751037162c8ef5792": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "17510371963fa7aad8": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "1751037237459a6951": {
+      "type": "apps",
+      "custom_css": [
+        ".loox-review .loox-review-footer .loox-review-date,.loox-review-popup .loox-review-date,.loox-review__date,.loox-date {display: none !important;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "text_with_icons_F7WFrc": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_hb3efc": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-truck",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_MWPiNa": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-operator",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+          }
+        },
+        "item_Pi49tA": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-credit-card",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_hb3efc",
+        "item_MWPiNa",
+        "item_Pi49tA"
+      ],
+      "name": "Text with icons",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "faq_FkNNkq": {
+      "type": "faq",
+      "blocks": {
+        "item_zLnt7z": {
+          "type": "item",
+          "settings": {
+            "title": "What are the dimensions of the backpack?",
+            "content": "<p><strong>VACPAC backpacks expand to dimensions of 49 x 32 x 15–20 cm when fully packed.</strong></p>"
+          }
+        },
+        "item_rxk4XU": {
+          "type": "item",
+          "settings": {
+            "title": "How does the vacuum system work?",
+            "content": "<p><strong>The built-in vacuum system reduces packing volume.</strong></p><ol><li>Pack your clothes or gear into the backpack.</li><li>Seal it securely.</li><li>Use the VACPAC pump to compress and vacuum-seal the contents — maximizing space-saving and convenience.</li></ol>"
+          }
+        },
+        "item_dgqKV6": {
+          "type": "item",
+          "settings": {
+            "title": "How much weight can the VACPACK hold?",
+            "content": "<p><strong>The VACPACK can hold up to 40 kg.</strong>.</p>"
+          }
+        },
+        "item_rnd3AY": {
+          "type": "item",
+          "settings": {
+            "title": "What size laptop can I fit in the PACK?",
+            "content": "<p>The VACPAC can hold a laptop up to 43 cm long.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_zLnt7z",
+        "item_rxk4XU",
+        "item_dgqKV6",
+        "item_rnd3AY"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "linear-gradient(238deg, rgba(212, 175, 55, 1), rgba(184, 134, 11, 1) 59%, rgba(0, 0, 0, 1) 100%)",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "17521644765f010547": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_qYJHGa": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_qYJHGa"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "image_with_text_overlay_YPkY3e": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_t9zdb6": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_pWiXAk": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_YejQxA": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_t9zdb6",
+        "heading_pWiXAk",
+        "richtext_YejQxA"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/d6282aaa-4579-4012-b6bf-6cae21b38f0b.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    }
+  },
+  "order": [
+    "gp_section_569357323709973525",
+    "gp_section_569355942743770092",
+    "gp_section_569355920094528544",
+    "gp_section_571656263440532295",
+    "gp_section_571652763964932935",
+    "gp_section_571645619102287072",
+    "gp_section_569355997286499360",
+    "featured_product_EEQeAR",
+    "images_with_text_scrolling_x9Y7PV",
+    "media_with_text_6JU3Lf",
+    "rich_text_mhjCa8",
+    "media_with_text_k936di",
+    "impact_text_BcCrLY",
+    "media_with_text_a7ihNd",
+    "175096150094a9477b",
+    "multiple_images_with_text_aAUAkz",
+    "media_with_text_kExG8x",
+    "press_6BxJLV",
+    "1751037162c8ef5792",
+    "17510371963fa7aad8",
+    "1751037237459a6951",
+    "text_with_icons_F7WFrc",
+    "faq_FkNNkq",
+    "17521644765f010547",
+    "image_with_text_overlay_YPkY3e"
+  ]
+}
