@@ -360,9 +360,9 @@
           "settings": {
             "video": "shopify://files/videos/ssstik.io_1760463458149-ezgif.com-video-to-gif-converter.mov",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Own the Cold.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>Style meets protection.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -373,9 +373,9 @@
           "settings": {
             "video": "shopify://files/videos/ssstik.io_1760461257502-ezgif.com-video-to-gif-converter.mov",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Winter? Handled.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>Warmth. Comfort. Power.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -386,9 +386,9 @@
           "settings": {
             "video": "shopify://files/videos/ssstik.io_1760460858427.mov",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Unisex. Unstoppable.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Built to stand out.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -406,9 +406,9 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "subheading": "",
+        "title": "",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
