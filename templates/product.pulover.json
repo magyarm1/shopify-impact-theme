@@ -413,6 +413,19 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_liquid_FGExCV": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"text-align:center; margin-top:40px;\">\n  <h2 style=\"font-size:28px; font-weight:700; margin-bottom:15px;\">📏 SIZE CHART</h2>\n  <table style=\"width:100%; border-collapse:collapse; font-size:16px; text-align:center;\">\n    <thead style=\"background-color:#000; color:#fff;\">\n      <tr>\n        <th style=\"padding:10px;\">SIZE</th>\n        <th style=\"padding:10px;\">LENGTH (cm / in)</th>\n        <th style=\"padding:10px;\">CHEST (cm / in)</th>\n        <th style=\"padding:10px;\">SLEEVE (cm / in)</th>\n        <th style=\"padding:10px;\">SHOULDER (cm / in)</th>\n      </tr>\n    </thead>\n    <tbody>\n      <tr><td>XS</td><td>68 / 26.8</td><td>120 / 47.2</td><td>58 / 22.8</td><td>56 / 22.0</td></tr>\n      <tr><td>S</td><td>70 / 27.6</td><td>122 / 48.0</td><td>59 / 23.2</td><td>58 / 22.8</td></tr>\n      <tr><td>M</td><td>72 / 28.3</td><td>124 / 48.8</td><td>60 / 23.6</td><td>60 / 23.6</td></tr>\n      <tr><td>L</td><td>74 / 29.1</td><td>128 / 50.4</td><td>62 / 24.4</td><td>62 / 24.4</td></tr>\n      <tr><td>XL</td><td>76 / 29.9</td><td>132 / 52.0</td><td>64 / 25.2</td><td>64 / 25.2</td></tr>\n      <tr><td>2XL</td><td>78 / 30.7</td><td>136 / 53.5</td><td>66 / 26.0</td><td>66 / 26.0</td></tr>\n    </tbody>\n  </table>\n  <p style=\"margin-top:10px; font-size:14px; color:#555;\">*Measurements may vary slightly (1–3 cm) due to manual measuring.</p>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -429,6 +442,7 @@
     "17510371963fa7aad8",
     "1751037237459a6951",
     "text_with_icons_F7WFrc",
-    "multi_column_bxwLTf"
+    "multi_column_bxwLTf",
+    "custom_liquid_FGExCV"
   ]
 }
