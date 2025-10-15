@@ -259,14 +259,15 @@
         "image_zDrdJG": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Kep.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Not just a hoodie. A statement.",
+            "content": "<p><strong>NEXHOOD™</strong> isn’t fashion — it’s <em>an attitude.</em><br/>Tactical design. Urban minimalism. Relentless style.<br/>Wear it like someone who knows who they are — and isn’t afraid to show it.</p><p>-Comfortable.<br/>-Durable.<br/>-Unstoppable.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#000000",
